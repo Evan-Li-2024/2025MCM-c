@@ -1,0 +1,766 @@
+Sport,Year,event_count,team_events_count,single_event_count
+Athletics,2020,53,10.0,43.0
+Athletics,2024,48,6.0,42.0
+Athletics,2016,47,5.0,42.0
+Athletics,2012,47,5.0,42.0
+Athletics,2008,47,5.0,42.0
+Athletics,2004,46,5.0,41.0
+Athletics,2000,46,5.0,41.0
+Athletics,1996,44,5.0,39.0
+Athletics,1992,43,5.0,38.0
+Athletics,1988,42,5.0,37.0
+Athletics,1984,41,5.0,36.0
+Athletics,1980,38,5.0,33.0
+Athletics,1972,38,5.0,33.0
+Athletics,1976,37,5.0,32.0
+Athletics,1968,36,4.0,32.0
+Athletics,1964,36,4.0,32.0
+Swimming,2024,36,7.0,29.0
+Swimming,2020,35,7.0,28.0
+Athletics,1960,34,4.0,30.0
+Swimming,2016,34,7.0,27.0
+Swimming,2012,34,7.0,27.0
+Swimming,2008,34,7.0,27.0
+Athletics,1956,33,4.0,29.0
+Athletics,1952,33,4.0,29.0
+Athletics,1948,33,4.0,29.0
+Swimming,2004,32,7.0,25.0
+Swimming,1996,32,7.0,25.0
+Swimming,2000,32,7.0,25.0
+Swimming,1992,31,6.0,25.0
+Swimming,1988,31,6.0,25.0
+Athletics,1912,30,5.0,25.0
+Swimming,1972,29,6.0,23.0
+Athletics,1932,29,4.0,25.0
+Swimming,1984,29,6.0,23.0
+Swimming,1968,29,6.0,23.0
+Athletics,1936,29,4.0,25.0
+Athletics,1920,29,5.0,24.0
+Athletics,1928,27,4.0,23.0
+Athletics,1924,27,5.0,22.0
+Athletics,1908,26,3.0,23.0
+Swimming,1976,26,5.0,21.0
+Swimming,1980,26,5.0,21.0
+Athletics,1904,24,1.0,23.0
+Athletics,1900,23,1.0,22.0
+Shooting,1920,22,11.0,11.0
+Athletics,1906,21,1.0,20.0
+Wrestling,1988,20,,
+Wrestling,1996,20,,
+Wrestling,1972,20,,
+Wrestling,1976,20,,
+Wrestling,1984,20,,
+Wrestling,1992,20,,
+Wrestling,1980,20,,
+Art Competitions,1936,19,2.0,17.0
+Wrestling,2020,18,,
+Wrestling,2024,18,,
+Art Competitions,1948,18,2.0,16.0
+Wrestling,2016,18,,
+Wrestling,2004,18,,
+Wrestling,2008,18,,
+Swimming,1964,18,6.0,12.0
+Wrestling,2012,18,,
+Cycling,2008,18,3.0,15.0
+Cycling,2016,18,4.0,14.0
+Cycling,2004,18,3.0,15.0
+Cycling,2012,18,4.0,14.0
+Shooting,1912,18,8.0,10.0
+Cycling,2000,18,3.0,15.0
+Shooting,2004,17,,
+Shooting,2000,17,,
+Canoeing,2000,16,8.0,8.0
+Canoeing,2012,16,7.0,9.0
+Wrestling,1968,16,,
+Wrestling,1960,16,,
+Wrestling,1956,16,,
+Wrestling,1952,16,,
+Canoeing,2016,16,7.0,9.0
+Canoeing,2004,16,8.0,8.0
+Canoeing,1992,16,8.0,8.0
+Canoeing,1996,16,8.0,8.0
+Wrestling,2000,16,,
+Wrestling,1964,16,,
+Wrestling,1948,16,,
+Canoeing,2008,16,8.0,8.0
+Artistic Gymnastics,2024,16,4.0,12.0
+Shooting,2016,15,,
+Shooting,2008,15,,
+Weightlifting,2016,15,,
+Weightlifting,2012,15,,
+Shooting,2024,15,3.0,12.0
+Weightlifting,2008,15,,
+Weightlifting,2004,15,,
+Judo,2020,15,1.0,14.0
+Shooting,2020,15,3.0,12.0
+Swimming,1960,15,5.0,10.0
+Shooting,1996,15,,
+Gymnastics,1956,15,7.0,8.0
+Gymnastics,1952,15,7.0,8.0
+Shooting,1908,15,6.0,9.0
+Weightlifting,2000,15,,
+Shooting,2012,15,,
+Judo,2024,15,1.0,14.0
+Gymnastics,1996,14,6.0,8.0
+Gymnastics,1988,14,6.0,8.0
+Gymnastics,2000,14,6.0,8.0
+Gymnastics,2008,14,6.0,8.0
+Gymnastics,1960,14,6.0,8.0
+Gymnastics,2016,14,6.0,8.0
+Rowing,1984,14,12.0,2.0
+Rowing,2008,14,12.0,2.0
+Rowing,2016,14,12.0,2.0
+Rowing,2024,14,12.0,2.0
+Rowing,1980,14,12.0,2.0
+Artistic Gymnastics,2020,14,2.0,12.0
+Weightlifting,2020,14,,
+Gymnastics,2012,14,6.0,8.0
+Rowing,1976,14,12.0,2.0
+Gymnastics,1968,14,6.0,8.0
+Judo,2012,14,2.0,12.0
+Rowing,2020,14,12.0,2.0
+Rowing,2004,14,12.0,2.0
+Rowing,2012,14,12.0,2.0
+Rowing,2000,14,12.0,2.0
+Rowing,1996,14,12.0,2.0
+Gymnastics,2004,14,6.0,8.0
+Judo,2004,14,2.0,12.0
+Judo,2000,14,2.0,12.0
+Judo,2008,14,2.0,12.0
+Judo,2016,14,2.0,12.0
+Judo,1992,14,2.0,12.0
+Judo,1996,14,2.0,12.0
+Gymnastics,1992,14,6.0,8.0
+Gymnastics,1984,14,6.0,8.0
+Gymnastics,1972,14,6.0,8.0
+Gymnastics,1976,14,6.0,8.0
+Gymnastics,1980,14,6.0,8.0
+Cycling,1996,14,1.0,13.0
+Wrestling,1932,14,,
+Wrestling,1936,14,,
+Gymnastics,1964,14,6.0,8.0
+Rowing,1988,14,12.0,2.0
+Rowing,1992,14,12.0,2.0
+Art Competitions,1928,13,2.0,11.0
+Wrestling,1928,13,,
+Swimming,1956,13,3.0,10.0
+Art Competitions,1932,13,1.0,12.0
+Wrestling,1924,13,,
+Cycling Track,2020,13,5.0,8.0
+Shooting,1992,13,,
+Boxing,2016,13,,
+Shooting,1988,13,,
+Boxing,2012,13,,
+Boxing,2024,13,,
+Boxing,2020,13,,
+Boxing,1996,12,,
+Athletics,1896,12,1.0,11.0
+Shooting,1906,12,1.0,11.0
+Fencing,2024,12,6.0,6.0
+Cycling Track,2024,12,5.0,7.0
+Gymnastics,1904,12,4.0,8.0
+"Cycling Road, Cycling Track",2024,12,3.0,9.0
+Fencing,2020,12,6.0,6.0
+Boxing,1988,12,,
+Canoeing,1988,12,7.0,5.0
+Boxing,1992,12,,
+Canoeing,1984,12,7.0,5.0
+Canoe Sprint,2020,12,6.0,6.0
+Boxing,1984,12,,
+Boxing,2000,12,,
+Swimming,1948,11,3.0,8.0
+Swimming,1952,11,3.0,8.0
+Swimming,1928,11,3.0,8.0
+Boxing,1972,11,,
+Boxing,1968,11,,
+Boxing,1980,11,,
+Boxing,1976,11,,
+Boxing,2008,11,,
+Sailing,2008,11,6.0,5.0
+Gymnastics,1932,11,4.0,7.0
+Canoeing,1980,11,6.0,5.0
+Canoeing,1972,11,5.0,6.0
+Swimming,1932,11,3.0,8.0
+Swimming,1924,11,3.0,8.0
+Swimming,1936,11,3.0,8.0
+Sailing,2004,11,6.0,5.0
+Sailing,2000,11,6.0,5.0
+Boxing,2004,11,,
+Shooting,1984,11,,
+Canoeing,1976,11,6.0,5.0
+Swimming,1904,10,1.0,9.0
+Weightlifting,1984,10,,
+Weightlifting,1980,10,,
+Weightlifting,1992,10,,
+Weightlifting,1988,10,,
+Weightlifting,2024,10,,
+Weightlifting,1996,10,,
+Wrestling,1920,10,,
+Swimming,1920,10,3.0,7.0
+Sailing,2012,10,5.0,5.0
+Sailing,2016,10,5.0,5.0
+Boxing,1960,10,,
+Sailing,2024,10,4.0,6.0
+Sailing,2020,10,5.0,5.0
+Shooting,1924,10,4.0,6.0
+Boxing,1952,10,,
+Boxing,1956,10,,
+Canoe Sprint,2024,10,6.0,4.0
+Sailing,1920,10,4.0,6.0
+Sailing,1992,10,6.0,4.0
+Sailing,1996,10,5.0,5.0
+Boxing,1964,10,,
+"Marathon Swimming, Swimming",2024,10,1.0,9.0
+Cycling,1992,10,2.0,8.0
+Fencing,2000,10,6.0,4.0
+Fencing,1996,10,6.0,4.0
+Fencing,2008,10,5.0,5.0
+Fencing,2012,10,5.0,5.0
+Fencing,2016,10,5.0,5.0
+Fencing,2004,10,5.0,5.0
+Archery,1920,10,1.0,9.0
+Weightlifting,1976,9,,
+Weightlifting,1972,9,,
+Canoeing,1936,9,5.0,4.0
+Canoeing,1948,9,4.0,5.0
+Canoeing,1952,9,4.0,5.0
+Gymnastics,1924,9,4.0,5.0
+Wrestling,1908,9,,
+Canoeing,1956,9,4.0,5.0
+Gymnastics,1948,9,5.0,4.0
+Cycling,1988,9,2.0,7.0
+Swimming,1912,9,3.0,6.0
+Gymnastics,1936,9,5.0,4.0
+Fencing,1968,8,5.0,3.0
+Diving,2024,8,4.0,4.0
+Diving,2016,8,4.0,4.0
+Fencing,1960,8,5.0,3.0
+Tennis,1912,8,5.0,3.0
+Fencing,1980,8,5.0,3.0
+Gymnastics,1928,8,5.0,3.0
+Sailing,1988,8,6.0,2.0
+Sailing,1900,8,5.0,3.0
+Cycling,1984,8,2.0,6.0
+Karate,2020,8,,
+Gymnastics,1896,8,4.0,4.0
+Boxing,1936,8,,
+Taekwondo,2012,8,,
+Taekwondo,2000,8,,
+Taekwondo,2008,8,,
+Taekwondo,2004,8,,
+Taekwondo,2020,8,,
+Judo,1984,8,2.0,6.0
+Archery,1900,8,,
+Diving,2020,8,3.0,5.0
+Boxing,1932,8,,
+Boxing,1928,8,,
+Boxing,1924,8,,
+Boxing,1948,8,,
+Diving,2000,8,4.0,4.0
+Diving,2004,8,4.0,4.0
+Diving,2008,8,4.0,4.0
+Diving,2012,8,4.0,4.0
+Fencing,1906,8,3.0,5.0
+Fencing,1984,8,5.0,3.0
+Fencing,1988,8,5.0,3.0
+Fencing,1992,8,5.0,3.0
+Boxing,1920,8,,
+Shooting,1972,8,,
+Fencing,1976,8,5.0,3.0
+Fencing,1964,8,5.0,3.0
+Shooting,1900,8,2.0,6.0
+Taekwondo,2016,8,,
+Taekwondo,2024,8,,
+Fencing,1972,8,5.0,3.0
+Judo,1980,8,2.0,6.0
+Cycling,1964,7,3.0,4.0
+Rowing,1936,7,6.0,1.0
+Rowing,1924,7,6.0,1.0
+Judo,1988,7,2.0,5.0
+Equestrianism,1920,7,3.0,4.0
+Weightlifting,1952,7,,
+Weightlifting,1956,7,,
+Weightlifting,1960,7,,
+Weightlifting,1964,7,,
+Weightlifting,1968,7,,
+Rowing,1932,7,6.0,1.0
+Rowing,1964,7,6.0,1.0
+Rowing,1928,7,6.0,1.0
+Cycling,1972,7,3.0,4.0
+Cycling,1968,7,3.0,4.0
+Fencing,1952,7,4.0,3.0
+Fencing,1924,7,4.0,3.0
+Fencing,1936,7,4.0,3.0
+Fencing,1928,7,4.0,3.0
+Shooting,1980,7,,
+Shooting,1976,7,,
+Swimming,1900,7,1.0,6.0
+Boxing,1904,7,,
+Shooting,1968,7,,
+Fencing,1948,7,4.0,3.0
+Fencing,1956,7,4.0,3.0
+Fencing,1932,7,4.0,3.0
+Rowing,1948,7,6.0,1.0
+Rowing,1960,7,6.0,1.0
+Fencing,1900,7,1.0,6.0
+Rowing,1956,7,6.0,1.0
+Cycling,1904,7,,
+Rowing,1972,7,6.0,1.0
+Rowing,1968,7,6.0,1.0
+Rowing,1952,7,6.0,1.0
+Sailing,1984,7,5.0,2.0
+Wrestling,1904,7,,
+Canoeing,1968,7,4.0,3.0
+Canoeing,1964,7,4.0,3.0
+Shooting,1952,7,,
+Canoeing,1960,7,4.0,3.0
+Shooting,1956,7,,
+Weightlifting,1948,6,,
+Equestrian,2020,6,3.0,3.0
+Equestrian,2024,6,3.0,3.0
+Equestrianism,1928,6,3.0,3.0
+Equestrianism,1932,6,3.0,3.0
+Equestrianism,1948,6,3.0,3.0
+Equestrianism,1936,6,3.0,3.0
+Equestrianism,1952,6,3.0,3.0
+Equestrianism,1956,6,3.0,3.0
+Equestrianism,1980,6,3.0,3.0
+Equestrianism,1976,6,3.0,3.0
+Equestrianism,2012,6,3.0,3.0
+Equestrianism,2016,6,3.0,3.0
+Equestrianism,1988,6,3.0,3.0
+Equestrianism,1968,6,3.0,3.0
+Equestrianism,1964,6,3.0,3.0
+Fencing,1920,6,4.0,2.0
+Shooting,1964,6,,
+Swimming,1908,6,1.0,5.0
+Tennis,1908,6,3.0,3.0
+Equestrianism,1984,6,3.0,3.0
+Equestrianism,1972,6,3.0,3.0
+Equestrianism,1992,6,3.0,3.0
+Equestrianism,1996,6,3.0,3.0
+Equestrianism,2000,6,3.0,3.0
+Equestrianism,2004,6,3.0,3.0
+Equestrianism,2008,6,3.0,3.0
+Cycling,1976,6,2.0,4.0
+Cycling,1896,6,,
+Shooting,1960,6,,
+Canoe Slalom,2024,6,,
+Sailing,1980,6,5.0,1.0
+Sailing,1976,6,5.0,1.0
+Cycling,1908,6,2.0,4.0
+Cycling,1920,6,3.0,3.0
+Cycling,1924,6,3.0,3.0
+Cycling,1928,6,3.0,3.0
+Cycling,1932,6,3.0,3.0
+Cycling,1936,6,3.0,3.0
+Cycling,1948,6,3.0,3.0
+Cycling,1952,6,3.0,3.0
+Cycling,1956,6,3.0,3.0
+Cycling,1960,6,3.0,3.0
+Cycling,1980,6,2.0,4.0
+Cycling,1906,6,1.0,5.0
+Rowing,1906,6,5.0,1.0
+Judo,1976,6,2.0,4.0
+Judo,1972,6,2.0,4.0
+Archery,1904,6,1.0,5.0
+Fencing,1904,5,2.0,3.0
+Weightlifting,1924,5,,
+Badminton,2024,5,3.0,2.0
+Equestrianism,1924,5,2.0,3.0
+Badminton,2020,5,3.0,2.0
+Weightlifting,1932,5,,
+Weightlifting,1928,5,,
+Badminton,2004,5,4.0,1.0
+Badminton,2000,5,4.0,1.0
+Weightlifting,1936,5,,
+Badminton,1996,5,4.0,1.0
+Badminton,2008,5,4.0,1.0
+Shooting,1896,5,,
+Table Tennis,2024,5,3.0,2.0
+Table Tennis,2020,5,3.0,2.0
+Boxing,1908,5,,
+Diving,1920,5,,
+Rowing,1904,5,4.0,1.0
+Rowing,1920,5,4.0,1.0
+Diving,1924,5,,
+Badminton,2012,5,4.0,1.0
+Art Competitions,1924,5,,
+Art Competitions,1920,5,,
+Equestrianism,1912,5,2.0,3.0
+Weightlifting,1920,5,,
+Equestrianism,1960,5,2.0,3.0
+Equestrianism,1900,5,,
+Fencing,1912,5,3.0,2.0
+Art Competitions,1912,5,,
+Archery,2024,5,3.0,2.0
+Archery,2020,5,3.0,2.0
+Wrestling,1912,5,,
+Sailing,1956,5,4.0,1.0
+Sailing,1952,5,4.0,1.0
+Sailing,1968,5,4.0,1.0
+Badminton,2016,5,4.0,1.0
+Tennis,2020,5,3.0,2.0
+Tennis,2016,5,4.0,1.0
+Tennis,2012,5,4.0,1.0
+Tennis,2024,5,3.0,2.0
+Sailing,1964,5,4.0,1.0
+Tennis,1920,5,4.0,1.0
+Tennis,1924,5,4.0,1.0
+Sailing,1960,5,4.0,1.0
+Badminton,1992,4,3.0,1.0
+Archery,1988,4,2.0,2.0
+Archery,1992,4,2.0,2.0
+Diving,1996,4,,
+Diving,1992,4,,
+Diving,1988,4,,
+Diving,1984,4,,
+Diving,1976,4,,
+Diving,1980,4,,
+Diving,1972,4,,
+Diving,1968,4,,
+Swimming,1906,4,1.0,3.0
+Shooting,1948,4,,
+Skateboarding,2024,4,,
+Skateboarding,2020,4,,
+Judo,1964,4,2.0,2.0
+Diving,1964,4,,
+Sport Climbing,2024,4,,
+Swimming,1896,4,,
+Table Tennis,2000,4,2.0,2.0
+Table Tennis,2012,4,2.0,2.0
+Table Tennis,2008,4,2.0,2.0
+Diving,1960,4,,
+Diving,1956,4,,
+Diving,1952,4,,
+Diving,1948,4,,
+Table Tennis,2016,4,2.0,2.0
+Table Tennis,1992,4,2.0,2.0
+Table Tennis,1996,4,2.0,2.0
+Table Tennis,1988,4,2.0,2.0
+Table Tennis,2004,4,2.0,2.0
+Tennis,1988,4,3.0,1.0
+Tennis,1900,4,3.0,1.0
+Canoe Slalom,2020,4,,
+Sailing,1972,4,3.0,1.0
+Cycling Road,2024,4,,
+Cycling Road,2020,4,,
+Rowing,1900,4,3.0,1.0
+Tennis,2008,4,3.0,1.0
+Tennis,1992,4,3.0,1.0
+Tennis,1996,4,3.0,1.0
+Tennis,2000,4,3.0,1.0
+Tennis,2004,4,3.0,1.0
+Sailing,1936,4,3.0,1.0
+Sailing,1932,4,3.0,1.0
+Sailing,1912,4,4.0,0.0
+Sailing,1908,4,3.0,1.0
+Sailing,1948,4,3.0,1.0
+Gymnastics,1906,4,1.0,3.0
+Gymnastics,1912,4,3.0,1.0
+Gymnastics,1920,4,3.0,1.0
+Tennis,1906,4,3.0,1.0
+Archery,2008,4,2.0,2.0
+Archery,2004,4,2.0,2.0
+Archery,2000,4,2.0,2.0
+Archery,2012,4,2.0,2.0
+Rowing,1912,4,3.0,1.0
+Rowing,1908,4,3.0,1.0
+Diving,1936,4,,
+Diving,1912,4,,
+Diving,1932,4,,
+Diving,1928,4,,
+"Cycling Road, Cycling Mountain Bike",2024,4,,
+Archery,1996,4,2.0,2.0
+Archery,2016,4,2.0,2.0
+Fencing,1908,4,2.0,2.0
+Wrestling,1906,4,,
+Fencing,1896,3,1.0,2.0
+Cycling,1900,3,,
+Croquet,1900,3,,
+Sailing,1924,3,2.0,1.0
+Archery,1908,3,,
+Shooting,1936,3,,
+Motorboating,1908,3,,
+Triathlon,2024,3,,
+Triathlon,2020,3,1.0,2.0
+Sailing,1928,3,2.0,1.0
+Handball,2004,2,2.0,0.0
+3x3 Basketball,2024,2,2.0,0.0
+Handball,2000,2,2.0,0.0
+Cycling Mountain Bike,2020,2,,
+Cycling BMX Racing,2024,2,2.0,0.0
+Cycling BMX Racing,2020,2,2.0,0.0
+Cycling BMX Freestyle,2024,2,,
+Cycling BMX Freestyle,2020,2,,
+Diving,1908,2,,
+"Cycling Road, Triathlon",2024,2,,
+Cycling,1912,2,1.0,1.0
+Handball,1996,2,2.0,0.0
+Handball,1992,2,2.0,0.0
+Trampolining,2016,2,,
+Trampolining,2012,2,,
+Trampolining,2008,2,,
+Trampolining,2004,2,,
+Trampolining,2000,2,,
+Trampoline Gymnastics,2024,2,2.0,0.0
+Trampoline Gymnastics,2020,2,2.0,0.0
+Triathlon,2008,2,,
+Triathlon,2004,2,,
+Triathlon,2000,2,,
+Rhythmic Gymnastics,2024,2,1.0,1.0
+Rhythmic Gymnastics,2020,2,1.0,1.0
+Rhythmic Gymnastics,2016,2,1.0,1.0
+Handball,2008,2,2.0,0.0
+Artistic Swimming,2024,2,2.0,0.0
+Artistic Swimming,2020,2,2.0,0.0
+Weightlifting,1904,2,1.0,1.0
+Weightlifting,1906,2,1.0,1.0
+Weightlifting,1896,2,1.0,1.0
+Handball,2012,2,2.0,0.0
+Handball,1976,2,2.0,0.0
+Cycling Mountain Bike,2024,2,,
+Handball,1980,2,2.0,0.0
+Handball,1984,2,2.0,0.0
+Handball,1988,2,2.0,0.0
+Racquets,1908,2,2.0,0.0
+Rhythmic Gymnastics,1996,2,1.0,1.0
+Rhythmic Gymnastics,2000,2,1.0,1.0
+Rhythmic Gymnastics,2004,2,1.0,1.0
+Rhythmic Gymnastics,2008,2,1.0,1.0
+Rhythmic Gymnastics,2012,2,1.0,1.0
+Golf,2024,2,,
+Golf,2016,2,1.0,1.0
+Golf,2020,2,,
+Golf,1900,2,1.0,1.0
+Football,2024,2,2.0,0.0
+Rugby Sevens,2020,2,2.0,0.0
+Golf,1904,2,2.0,0.0
+Football,2016,2,2.0,0.0
+Football,2020,2,2.0,0.0
+Modern Pentathlon,2016,2,,
+Modern Pentathlon,2012,2,,
+Modern Pentathlon,2000,2,,
+Modern Pentathlon,1992,2,1.0,1.0
+Modern Pentathlon,2008,2,,
+Modern Pentathlon,2004,2,,
+Modern Pentathlon,1984,2,1.0,1.0
+Modern Pentathlon,1988,2,1.0,1.0
+Modern Pentathlon,1980,2,1.0,1.0
+Volleyball,1972,2,2.0,0.0
+Volleyball,1964,2,2.0,0.0
+Volleyball,1968,2,2.0,0.0
+Rugby Sevens,2016,2,2.0,0.0
+Rugby Sevens,2024,2,2.0,0.0
+Triathlon,2012,2,,
+Triathlon,2016,2,,
+Breaking,2024,2,,
+Tennis,1904,2,2.0,0.0
+Hockey,1988,2,2.0,0.0
+Hockey,1984,2,2.0,0.0
+Tennis,1896,2,2.0,0.0
+Hockey,1992,2,2.0,0.0
+Modern Pentathlon,1972,2,1.0,1.0
+Modern Pentathlon,1968,2,1.0,1.0
+Modern Pentathlon,1964,2,1.0,1.0
+Modern Pentathlon,1960,2,1.0,1.0
+Modern Pentathlon,1956,2,1.0,1.0
+Modern Pentathlon,1952,2,1.0,1.0
+Hockey,1980,2,2.0,0.0
+Modern Pentathlon,1976,2,1.0,1.0
+Marathon Swimming,2020,2,,
+Marathon Swimming,2024,2,,
+Modern Pentathlon,2020,2,,
+Modern Pentathlon,2024,2,,
+Beach Volleyball,1996,2,2.0,0.0
+Shooting,1932,2,,
+Football,2012,2,2.0,0.0
+Football,2008,2,2.0,0.0
+Football,2004,2,2.0,0.0
+Football,2000,2,2.0,0.0
+Football,1996,2,2.0,0.0
+Beach Volleyball,2024,2,2.0,0.0
+Beach Volleyball,2020,2,2.0,0.0
+Beach Volleyball,2016,2,2.0,0.0
+Beach Volleyball,2012,2,2.0,0.0
+Gymnastics,1908,2,1.0,1.0
+Beach Volleyball,2008,2,2.0,0.0
+Beach Volleyball,2004,2,2.0,0.0
+Basketball,1992,2,2.0,0.0
+Beach Volleyball,2000,2,2.0,0.0
+Basketball,1984,2,2.0,0.0
+Volleyball,2000,2,2.0,0.0
+Volleyball,1996,2,2.0,0.0
+Basketball,1988,2,2.0,0.0
+Volleyball,1988,2,2.0,0.0
+Volleyball,1984,2,2.0,0.0
+Volleyball,1980,2,2.0,0.0
+Volleyball,1976,2,2.0,0.0
+Hockey,2024,2,2.0,0.0
+Hockey,2020,2,2.0,0.0
+Hockey,2016,2,2.0,0.0
+Volleyball,1992,2,2.0,0.0
+Hockey,2008,2,2.0,0.0
+Hockey,2004,2,2.0,0.0
+Hockey,2000,2,2.0,0.0
+Hockey,1996,2,2.0,0.0
+Basketball,1980,2,2.0,0.0
+Basketball,1976,2,2.0,0.0
+Surfing,2024,2,2.0,0.0
+Surfing,2020,2,2.0,0.0
+Sport Climbing,2020,2,,
+Synchronized Swimming,2016,2,2.0,0.0
+Synchronized Swimming,2012,2,2.0,0.0
+Synchronized Swimming,2008,2,2.0,0.0
+Synchronized Swimming,2004,2,2.0,0.0
+Synchronized Swimming,2000,2,2.0,0.0
+Synchronized Swimming,1992,2,1.0,1.0
+Hockey,2012,2,2.0,0.0
+Synchronized Swimming,1988,2,1.0,1.0
+Synchronized Swimming,1984,2,1.0,1.0
+Basketball,2020,2,2.0,0.0
+Basketball,2024,2,2.0,0.0
+Water Polo,2020,2,2.0,0.0
+Water Polo,2016,2,2.0,0.0
+Water Polo,2012,2,2.0,0.0
+Water Polo,2024,2,2.0,0.0
+Water Polo,2004,2,2.0,0.0
+Water Polo,2000,2,2.0,0.0
+Handball,2024,2,2.0,0.0
+Handball,2020,2,2.0,0.0
+Handball,2016,2,2.0,0.0
+Volleyball,2024,2,2.0,0.0
+Volleyball,2020,2,2.0,0.0
+Water Polo,2008,2,2.0,0.0
+Volleyball,2016,2,2.0,0.0
+Volleyball,2012,2,2.0,0.0
+Volleyball,2004,2,2.0,0.0
+Volleyball,2008,2,2.0,0.0
+Basketball,2012,2,2.0,0.0
+Basketball,2008,2,2.0,0.0
+Basketball,2004,2,2.0,0.0
+Basketball,2016,2,2.0,0.0
+Basketball,2000,2,2.0,0.0
+Basketball,1996,2,2.0,0.0
+Baseball/Softball,2020,2,2.0,0.0
+3x3 Basketball,2020,2,2.0,0.0
+Archery,1984,2,,
+Archery,1980,2,,
+Archery,1976,2,,
+Archery,1972,2,,
+Basque Pelota,1900,1,,
+Synchronized Swimming,1996,1,1.0,0.0
+Softball,2000,1,1.0,0.0
+Softball,2004,1,1.0,0.0
+Softball,2008,1,1.0,0.0
+Basketball,1968,1,1.0,0.0
+Basketball,1972,1,1.0,0.0
+Football,1920,1,1.0,0.0
+Football,1924,1,1.0,0.0
+Football,1928,1,1.0,0.0
+Football,1936,1,1.0,0.0
+Football,1948,1,1.0,0.0
+Softball,1996,1,1.0,0.0
+Football,1992,1,1.0,0.0
+Football,1900,1,1.0,0.0
+Football,1904,1,1.0,0.0
+Football,1906,1,1.0,0.0
+Football,1908,1,1.0,0.0
+Football,1912,1,1.0,0.0
+Football,1952,1,1.0,0.0
+Football,1956,1,1.0,0.0
+Football,1960,1,1.0,0.0
+Football,1964,1,1.0,0.0
+Football,1968,1,1.0,0.0
+Football,1972,1,1.0,0.0
+Football,1976,1,1.0,0.0
+Football,1980,1,1.0,0.0
+Football,1984,1,1.0,0.0
+Football,1988,1,1.0,0.0
+Gymnastics,1900,1,,
+Cricket,1900,1,,
+Rugby,1900,1,1.0,0.0
+Rugby,1908,1,1.0,0.0
+Rugby,1920,1,1.0,0.0
+Rugby,1924,1,1.0,0.0
+Diving,1904,1,,
+Diving,1906,1,,
+Handball,1936,1,1.0,0.0
+Handball,1972,1,1.0,0.0
+Polo,1924,1,1.0,0.0
+Polo,1936,1,1.0,0.0
+Rhythmic Gymnastics,1984,1,,
+Rhythmic Gymnastics,1988,1,,
+Rhythmic Gymnastics,1992,1,,
+Roque,1904,1,,
+Tug-Of-War,1900,1,1.0,0.0
+Tug-Of-War,1904,1,1.0,0.0
+Tug-Of-War,1906,1,1.0,0.0
+Tug-Of-War,1908,1,1.0,0.0
+Tug-Of-War,1912,1,1.0,0.0
+Tug-Of-War,1920,1,1.0,0.0
+Modern Pentathlon,1996,1,,
+Polo,1900,1,1.0,0.0
+Polo,1908,1,1.0,0.0
+Polo,1920,1,1.0,0.0
+Modern Pentathlon,1912,1,,
+Modern Pentathlon,1920,1,,
+Modern Pentathlon,1924,1,,
+Modern Pentathlon,1928,1,,
+Modern Pentathlon,1932,1,,
+Modern Pentathlon,1936,1,,
+Modern Pentathlon,1948,1,,
+Jeu De Paume,1908,1,,
+Lacrosse,1904,1,1.0,0.0
+Lacrosse,1908,1,1.0,0.0
+Water Polo,1900,1,1.0,0.0
+Water Polo,1904,1,1.0,0.0
+Water Polo,1908,1,1.0,0.0
+Water Polo,1912,1,1.0,0.0
+Water Polo,1920,1,1.0,0.0
+Water Polo,1924,1,1.0,0.0
+Water Polo,1928,1,1.0,0.0
+Water Polo,1932,1,1.0,0.0
+Water Polo,1936,1,1.0,0.0
+Water Polo,1948,1,1.0,0.0
+Water Polo,1952,1,1.0,0.0
+Water Polo,1956,1,1.0,0.0
+Water Polo,1960,1,1.0,0.0
+Water Polo,1964,1,1.0,0.0
+Water Polo,1968,1,1.0,0.0
+Water Polo,1972,1,1.0,0.0
+Water Polo,1976,1,1.0,0.0
+Water Polo,1980,1,1.0,0.0
+Water Polo,1984,1,1.0,0.0
+Hockey,1908,1,1.0,0.0
+Hockey,1920,1,1.0,0.0
+Hockey,1928,1,1.0,0.0
+Hockey,1932,1,1.0,0.0
+Hockey,1936,1,1.0,0.0
+Hockey,1948,1,1.0,0.0
+Hockey,1952,1,1.0,0.0
+Hockey,1956,1,1.0,0.0
+Hockey,1960,1,1.0,0.0
+Hockey,1964,1,1.0,0.0
+Hockey,1968,1,1.0,0.0
+Hockey,1972,1,1.0,0.0
+Hockey,1976,1,1.0,0.0
+Water Polo,1988,1,1.0,0.0
+Water Polo,1992,1,1.0,0.0
+Water Polo,1996,1,1.0,0.0
+Wrestling,1896,1,,
+Alpinism,1936,1,,
+Alpinism,1932,1,,
+Aeronautics,1936,1,,
+"3x3 Basketball, Basketball",2024,1,1.0,0.0
+Baseball,1992,1,1.0,0.0
+Baseball,1996,1,1.0,0.0
+Baseball,2000,1,1.0,0.0
+Baseball,2004,1,1.0,0.0
+Baseball,2008,1,1.0,0.0
+Basketball,1936,1,1.0,0.0
+Basketball,1948,1,1.0,0.0
+Basketball,1952,1,1.0,0.0
+Basketball,1956,1,1.0,0.0
+Basketball,1960,1,1.0,0.0
+Basketball,1964,1,1.0,0.0
