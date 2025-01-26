@@ -44,3 +44,7 @@ What other original insight(s) about Olympic medal counts does your model reveal
     4. 国家运动员实力：运动员规模，性别比例，运动项目分布情况，奖牌效率（每名运动员平均获得的奖牌数），当前项目明星运动员数量
 
     5. （组合特征）主办国家结合项目数量 ......
+
+
+## 队伍成员
+**Zhou Jianbo, Li Yufeng , Zhou Zijing**
