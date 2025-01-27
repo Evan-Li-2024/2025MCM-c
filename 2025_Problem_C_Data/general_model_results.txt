@@ -1,41 +1,41 @@
 泛化模型性能评估
 
 Total Medal预测模型：
-R2: 0.6045
-RMSE: 2.8830
-MAE: 1.1452
+R2: 0.6975
+RMSE: 1.1729
+MAE: 0.4822
 
 特征重要性：
-previous_3_medal_rate_avg: 0.4540
-previous_3_participated_events_count_avg: 0.1386
-sport_sample_count: 0.0937
-previous_3_participated_single_events_count_avg: 0.0453
-previous_3_sport_distribution_ratio_avg: 0.0446
-previous_3_medal_ef_avg: 0.0422
-previous_3_participated_team_events_count_avg: 0.0401
-previous_3_male_proportion_avg: 0.0342
-previous_3_athlete_proportion_avg: 0.0315
-previous_3_gold_rate_avg: 0.0279
-previous_3_female_proportion_avg: 0.0241
-previous_3_female_ratio_avg: 0.0168
-is_host: 0.0069
+previous_3_participated_events_count_avg: 0.3808
+previous_3_medal_rate_avg: 0.3714
+previous_3_gold_rate_avg: 0.0351
+previous_3_male_proportion_avg: 0.0336
+previous_3_medal_ef_avg: 0.0313
+previous_3_sport_distribution_ratio_avg: 0.0299
+sport_sample_count: 0.0296
+previous_3_participated_single_events_count_avg: 0.0284
+previous_3_athlete_proportion_avg: 0.0192
+previous_3_female_proportion_avg: 0.0168
+previous_3_female_ratio_avg: 0.0117
+previous_3_participated_team_events_count_avg: 0.0079
+is_host: 0.0043
 
 Gold Medal预测模型：
-R2: 0.1827
-RMSE: 1.7340
-MAE: 0.5897
+R2: 0.4558
+RMSE: 0.5471
+MAE: 0.2391
 
 特征重要性：
-previous_3_medal_rate_avg: 0.3038
-previous_3_sport_distribution_ratio_avg: 0.1214
-previous_3_participated_events_count_avg: 0.0830
-previous_3_male_proportion_avg: 0.0824
-previous_3_athlete_proportion_avg: 0.0772
-sport_sample_count: 0.0744
-previous_3_gold_rate_avg: 0.0586
-previous_3_female_proportion_avg: 0.0516
-previous_3_medal_ef_avg: 0.0439
-previous_3_participated_team_events_count_avg: 0.0377
-previous_3_female_ratio_avg: 0.0335
-previous_3_participated_single_events_count_avg: 0.0300
-is_host: 0.0023
+previous_3_participated_events_count_avg: 0.3465
+previous_3_gold_rate_avg: 0.1957
+previous_3_medal_rate_avg: 0.1883
+previous_3_medal_ef_avg: 0.0447
+previous_3_sport_distribution_ratio_avg: 0.0447
+previous_3_male_proportion_avg: 0.0399
+previous_3_female_proportion_avg: 0.0289
+previous_3_athlete_proportion_avg: 0.0285
+previous_3_participated_single_events_count_avg: 0.0253
+previous_3_female_ratio_avg: 0.0229
+sport_sample_count: 0.0186
+previous_3_participated_team_events_count_avg: 0.0126
+is_host: 0.0033
