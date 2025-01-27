@@ -1,775 +1,836 @@
 
 Canoe Sprint:
 Total Medal Model:
-R2 Score: 0.5416
-RMSE: 0.6930
+R2 Score: 0.5365
+RMSE: 0.6968
 Feature Importance:
-previous_3_gold_avg: 0.0045
-previous_3_medal_avg: 0.1209
-previous_3_gold_rate_avg: 0.0073
-previous_3_medal_rate_avg: 0.1881
-previous_3_athlete_proportion_avg: 0.0872
-previous_3_female_proportion_avg: 0.1061
-previous_3_male_proportion_avg: 0.2525
-previous_3_medal_ef_avg: 0.0753
-previous_3_participated_events_count_avg: 0.0389
-previous_3_participated_single_events_count_avg: 0.0462
-previous_3_participated_team_events_count_avg: 0.0730
+previous_3_gold_avg: 0.0604
+previous_3_medal_avg: 0.0845
+previous_3_gold_rate_avg: 0.0464
+previous_3_medal_rate_avg: 0.1665
+previous_3_athlete_proportion_avg: 0.0721
+previous_3_female_proportion_avg: 0.1028
+previous_3_male_proportion_avg: 0.2403
+previous_3_medal_ef_avg: 0.0649
+previous_3_participated_events_count_avg: 0.0400
+previous_3_participated_single_events_count_avg: 0.0499
+previous_3_participated_team_events_count_avg: 0.0723
 
 Gold Medal Model:
-R2 Score: 0.2181
-RMSE: 0.4509
+R2 Score: 0.6675
+RMSE: 0.2750
 Feature Importance:
-previous_3_gold_avg: 0.0119
-previous_3_medal_avg: 0.1054
-previous_3_gold_rate_avg: 0.0095
-previous_3_medal_rate_avg: 0.1006
-previous_3_athlete_proportion_avg: 0.1363
-previous_3_female_proportion_avg: 0.1385
-previous_3_male_proportion_avg: 0.3423
-previous_3_participated_events_count_avg: 0.0429
-previous_3_participated_single_events_count_avg: 0.0657
-previous_3_participated_team_events_count_avg: 0.0468
+previous_3_gold_avg: 0.0216
+previous_3_medal_avg: 0.2526
+previous_3_gold_rate_avg: 0.0295
+previous_3_medal_rate_avg: 0.1405
+previous_3_athlete_proportion_avg: 0.1601
+previous_3_female_proportion_avg: 0.0651
+previous_3_male_proportion_avg: 0.1909
+previous_3_participated_events_count_avg: 0.0844
+previous_3_participated_team_events_count_avg: 0.0553
 
 Rowing:
 Total Medal Model:
-R2 Score: 0.3738
-RMSE: 1.4364
+R2 Score: 0.3610
+RMSE: 1.4510
 Feature Importance:
-previous_3_gold_avg: 0.0116
-previous_3_medal_avg: 0.1239
-previous_3_gold_rate_avg: 0.0319
-previous_3_medal_rate_avg: 0.1281
-previous_3_athlete_proportion_avg: 0.0871
-previous_3_female_proportion_avg: 0.0614
-previous_3_male_proportion_avg: 0.2039
-previous_3_medal_ef_avg: 0.0642
-previous_3_participated_events_count_avg: 0.0860
-previous_3_participated_single_events_count_avg: 0.0215
-previous_3_participated_team_events_count_avg: 0.1804
+previous_3_gold_avg: 0.1224
+previous_3_medal_avg: 0.0791
+previous_3_gold_rate_avg: 0.0938
+previous_3_medal_rate_avg: 0.0864
+previous_3_athlete_proportion_avg: 0.0802
+previous_3_female_proportion_avg: 0.0523
+previous_3_male_proportion_avg: 0.1734
+previous_3_medal_ef_avg: 0.0573
+previous_3_participated_events_count_avg: 0.0780
+previous_3_participated_single_events_count_avg: 0.0243
+previous_3_participated_team_events_count_avg: 0.1528
 
 Gold Medal Model:
-R2 Score: 0.0320
-RMSE: 0.6197
+R2 Score: 0.2855
+RMSE: 0.8979
 Feature Importance:
-previous_3_gold_avg: 0.0233
-previous_3_medal_avg: 0.0906
-previous_3_gold_rate_avg: 0.0330
-previous_3_medal_rate_avg: 0.1379
-previous_3_athlete_proportion_avg: 0.1401
-previous_3_female_proportion_avg: 0.0923
-previous_3_male_proportion_avg: 0.2031
-previous_3_medal_ef_avg: 0.1129
-previous_3_participated_events_count_avg: 0.1129
-previous_3_participated_team_events_count_avg: 0.0540
+previous_3_gold_avg: 0.0942
+previous_3_medal_avg: 0.0595
+previous_3_gold_rate_avg: 0.0486
+previous_3_medal_rate_avg: 0.1008
+previous_3_athlete_proportion_avg: 0.1497
+previous_3_female_proportion_avg: 0.0985
+previous_3_male_proportion_avg: 0.2744
+previous_3_medal_ef_avg: 0.0805
+previous_3_participated_events_count_avg: 0.0378
+previous_3_participated_team_events_count_avg: 0.0559
 
 Shooting:
 Total Medal Model:
-R2 Score: 0.4947
-RMSE: 0.8098
+R2 Score: 0.4909
+RMSE: 0.8129
 Feature Importance:
-previous_3_gold_avg: 0.0164
-previous_3_medal_avg: 0.3300
-previous_3_gold_rate_avg: 0.0397
-previous_3_medal_rate_avg: 0.2692
-previous_3_athlete_proportion_avg: 0.0871
-previous_3_female_proportion_avg: 0.0429
-previous_3_male_proportion_avg: 0.1048
-previous_3_medal_ef_avg: 0.0340
-previous_3_participated_events_count_avg: 0.0400
-previous_3_participated_single_events_count_avg: 0.0359
+previous_3_gold_avg: 0.0491
+previous_3_medal_avg: 0.2353
+previous_3_gold_rate_avg: 0.2222
+previous_3_medal_rate_avg: 0.1755
+previous_3_athlete_proportion_avg: 0.0803
+previous_3_female_proportion_avg: 0.0405
+previous_3_male_proportion_avg: 0.0971
+previous_3_medal_ef_avg: 0.0320
+previous_3_participated_events_count_avg: 0.0364
+previous_3_participated_single_events_count_avg: 0.0317
 
 Gold Medal Model:
-R2 Score: 0.2687
-RMSE: 0.4658
+R2 Score: 0.4787
+RMSE: 0.3740
 Feature Importance:
-previous_3_gold_avg: 0.0166
-previous_3_medal_avg: 0.1008
-previous_3_gold_rate_avg: 0.0438
-previous_3_medal_rate_avg: 0.1679
-previous_3_athlete_proportion_avg: 0.2010
-previous_3_female_proportion_avg: 0.0811
-previous_3_male_proportion_avg: 0.2103
-previous_3_medal_ef_avg: 0.0772
-previous_3_participated_events_count_avg: 0.0571
-previous_3_participated_single_events_count_avg: 0.0443
+previous_3_gold_avg: 0.0443
+previous_3_medal_avg: 0.3361
+previous_3_gold_rate_avg: 0.0586
+previous_3_medal_rate_avg: 0.1258
+previous_3_athlete_proportion_avg: 0.1083
+previous_3_female_proportion_avg: 0.0659
+previous_3_male_proportion_avg: 0.1135
+previous_3_medal_ef_avg: 0.0596
+previous_3_participated_events_count_avg: 0.0470
+previous_3_participated_single_events_count_avg: 0.0409
 
 Swimming:
 Total Medal Model:
-R2 Score: 0.8472
-RMSE: 1.3222
+R2 Score: 0.8256
+RMSE: 1.4126
 Feature Importance:
-previous_3_gold_avg: 0.0372
-previous_3_medal_avg: 0.3693
-previous_3_gold_rate_avg: 0.0974
-previous_3_medal_rate_avg: 0.2748
-previous_3_athlete_proportion_avg: 0.0427
-previous_3_female_proportion_avg: 0.0213
-previous_3_male_proportion_avg: 0.0311
-previous_3_medal_ef_avg: 0.0646
-previous_3_participated_events_count_avg: 0.0262
-previous_3_participated_single_events_count_avg: 0.0172
-previous_3_participated_team_events_count_avg: 0.0181
+previous_3_gold_avg: 0.0786
+previous_3_medal_avg: 0.3945
+previous_3_gold_rate_avg: 0.0926
+previous_3_medal_rate_avg: 0.2155
+previous_3_athlete_proportion_avg: 0.0410
+previous_3_female_proportion_avg: 0.0241
+previous_3_male_proportion_avg: 0.0346
+previous_3_medal_ef_avg: 0.0547
+previous_3_participated_events_count_avg: 0.0260
+previous_3_participated_single_events_count_avg: 0.0225
+previous_3_participated_team_events_count_avg: 0.0160
 
 Gold Medal Model:
-R2 Score: 0.7118
-RMSE: 0.5537
+R2 Score: 0.7508
+RMSE: 0.7046
 Feature Importance:
-previous_3_gold_avg: 0.0707
-previous_3_medal_avg: 0.2010
-previous_3_gold_rate_avg: 0.2809
-previous_3_medal_rate_avg: 0.1120
-previous_3_athlete_proportion_avg: 0.0753
-previous_3_female_proportion_avg: 0.0720
-previous_3_male_proportion_avg: 0.0413
-previous_3_medal_ef_avg: 0.0347
-previous_3_participated_events_count_avg: 0.0445
-previous_3_participated_single_events_count_avg: 0.0247
-previous_3_participated_team_events_count_avg: 0.0430
+previous_3_gold_avg: 0.0465
+previous_3_medal_avg: 0.1411
+previous_3_gold_rate_avg: 0.3547
+previous_3_medal_rate_avg: 0.2280
+previous_3_athlete_proportion_avg: 0.0400
+previous_3_female_proportion_avg: 0.0319
+previous_3_male_proportion_avg: 0.0442
+previous_3_medal_ef_avg: 0.0457
+previous_3_participated_events_count_avg: 0.0236
+previous_3_participated_single_events_count_avg: 0.0291
+previous_3_participated_team_events_count_avg: 0.0153
 
 Taekwondo:
 Total Medal Model:
-R2 Score: 0.1361
-RMSE: 0.6255
+R2 Score: 0.0897
+RMSE: 0.6420
 Feature Importance:
-previous_3_gold_avg: 0.0155
-previous_3_medal_avg: 0.1682
-previous_3_gold_rate_avg: 0.0155
-previous_3_medal_rate_avg: 0.1681
-previous_3_athlete_proportion_avg: 0.2000
-previous_3_female_proportion_avg: 0.1118
-previous_3_male_proportion_avg: 0.1254
-previous_3_medal_ef_avg: 0.1222
-previous_3_participated_events_count_avg: 0.0371
-previous_3_participated_single_events_count_avg: 0.0362
+previous_3_gold_avg: 0.1135
+previous_3_medal_avg: 0.0791
+previous_3_gold_rate_avg: 0.1488
+previous_3_medal_rate_avg: 0.0990
+previous_3_athlete_proportion_avg: 0.1679
+previous_3_female_proportion_avg: 0.0883
+previous_3_male_proportion_avg: 0.1320
+previous_3_medal_ef_avg: 0.0938
+previous_3_participated_events_count_avg: 0.0351
+previous_3_participated_single_events_count_avg: 0.0426
 
 Gold Medal Model:
-R2 Score: -0.1392
-RMSE: 0.5070
+R2 Score: -0.0380
+RMSE: 0.4165
 Feature Importance:
-previous_3_gold_avg: 0.0271
-previous_3_medal_avg: 0.0924
-previous_3_gold_rate_avg: 0.0359
-previous_3_medal_rate_avg: 0.1030
-previous_3_athlete_proportion_avg: 0.1953
-previous_3_female_proportion_avg: 0.1284
-previous_3_male_proportion_avg: 0.1592
-previous_3_medal_ef_avg: 0.1550
-previous_3_participated_events_count_avg: 0.0499
-previous_3_participated_single_events_count_avg: 0.0539
+previous_3_gold_avg: 0.1467
+previous_3_medal_avg: 0.1571
+previous_3_gold_rate_avg: 0.1459
+previous_3_medal_rate_avg: 0.0742
+previous_3_athlete_proportion_avg: 0.1852
+previous_3_female_proportion_avg: 0.1574
+previous_3_medal_ef_avg: 0.0701
+previous_3_participated_events_count_avg: 0.0333
+previous_3_participated_single_events_count_avg: 0.0302
 
 Tennis:
 Total Medal Model:
-R2 Score: 0.1903
-RMSE: 0.5030
+R2 Score: 0.2107
+RMSE: 0.4966
 Feature Importance:
-previous_3_gold_avg: 0.0190
-previous_3_medal_avg: 0.0818
-previous_3_gold_rate_avg: 0.0287
-previous_3_medal_rate_avg: 0.0989
-previous_3_athlete_proportion_avg: 0.2786
-previous_3_female_proportion_avg: 0.1853
-previous_3_male_proportion_avg: 0.1328
-previous_3_medal_ef_avg: 0.0730
-previous_3_participated_events_count_avg: 0.0681
-previous_3_participated_team_events_count_avg: 0.0340
+previous_3_gold_avg: 0.0280
+previous_3_medal_avg: 0.0351
+previous_3_gold_rate_avg: 0.2138
+previous_3_medal_rate_avg: 0.0511
+previous_3_athlete_proportion_avg: 0.2236
+previous_3_female_proportion_avg: 0.1519
+previous_3_male_proportion_avg: 0.1234
+previous_3_medal_ef_avg: 0.0600
+previous_3_participated_events_count_avg: 0.0491
+previous_3_participated_single_events_count_avg: 0.0265
+previous_3_participated_team_events_count_avg: 0.0374
 
 Gold Medal Model:
-R2 Score: 0.1871
-RMSE: 0.2628
+R2 Score: -0.1229
+RMSE: 0.3089
 Feature Importance:
-previous_3_medal_avg: 0.0385
-previous_3_medal_rate_avg: 0.0661
-previous_3_athlete_proportion_avg: 0.3333
-previous_3_female_proportion_avg: 0.2413
-previous_3_male_proportion_avg: 0.1498
-previous_3_participated_events_count_avg: 0.1017
-previous_3_participated_team_events_count_avg: 0.0693
-
-Trampoline Gymnastics:
-Total Medal Model:
-R2 Score: -0.1192
-RMSE: 1.1106
-Feature Importance:
-previous_3_medal_avg: 0.3594
-previous_3_medal_rate_avg: 0.3763
-previous_3_medal_ef_avg: 0.2643
-
-Gold Medal Model:
-R2 Score: -0.1721
-RMSE: 0.3788
-Feature Importance:
-previous_3_medal_avg: 0.1786
-previous_3_medal_rate_avg: 0.1653
-previous_3_athlete_proportion_avg: 0.2961
-previous_3_female_proportion_avg: 0.0585
-previous_3_female_ratio_avg: 0.0784
-previous_3_medal_ef_avg: 0.2231
+previous_3_gold_avg: 0.0380
+previous_3_medal_avg: 0.0429
+previous_3_gold_rate_avg: 0.2890
+previous_3_medal_rate_avg: 0.1154
+previous_3_athlete_proportion_avg: 0.4400
+previous_3_medal_ef_avg: 0.0747
 
 Weightlifting:
 Total Medal Model:
-R2 Score: 0.4398
-RMSE: 0.9677
+R2 Score: 0.3766
+RMSE: 1.0208
 Feature Importance:
-previous_3_gold_avg: 0.0199
-previous_3_medal_avg: 0.3497
-previous_3_gold_rate_avg: 0.0518
-previous_3_medal_rate_avg: 0.2326
-previous_3_athlete_proportion_avg: 0.1046
-previous_3_female_proportion_avg: 0.0270
-previous_3_male_proportion_avg: 0.0857
-previous_3_medal_ef_avg: 0.0530
-previous_3_participated_events_count_avg: 0.0381
-previous_3_participated_single_events_count_avg: 0.0376
+previous_3_gold_avg: 0.0467
+previous_3_medal_avg: 0.3271
+previous_3_gold_rate_avg: 0.0519
+previous_3_medal_rate_avg: 0.2170
+previous_3_athlete_proportion_avg: 0.1060
+previous_3_female_proportion_avg: 0.0253
+previous_3_male_proportion_avg: 0.0861
+previous_3_medal_ef_avg: 0.0577
+previous_3_participated_events_count_avg: 0.0412
+previous_3_participated_single_events_count_avg: 0.0409
 
 Gold Medal Model:
-R2 Score: 0.1447
-RMSE: 0.5392
+R2 Score: 0.1373
+RMSE: 0.6747
 Feature Importance:
-previous_3_gold_avg: 0.0327
-previous_3_medal_avg: 0.0398
-previous_3_gold_rate_avg: 0.0983
-previous_3_medal_rate_avg: 0.2475
-previous_3_athlete_proportion_avg: 0.1615
-previous_3_male_proportion_avg: 0.1607
-previous_3_medal_ef_avg: 0.0832
-previous_3_participated_events_count_avg: 0.0910
-previous_3_participated_single_events_count_avg: 0.0852
+previous_3_gold_avg: 0.4746
+previous_3_medal_avg: 0.0726
+previous_3_gold_rate_avg: 0.0677
+previous_3_medal_rate_avg: 0.0784
+previous_3_athlete_proportion_avg: 0.0751
+previous_3_female_proportion_avg: 0.0261
+previous_3_male_proportion_avg: 0.0698
+previous_3_medal_ef_avg: 0.0689
+previous_3_participated_events_count_avg: 0.0309
+previous_3_participated_single_events_count_avg: 0.0359
 
 Wrestling:
 Total Medal Model:
-R2 Score: 0.4654
-RMSE: 1.7279
+R2 Score: 0.4414
+RMSE: 1.7663
 Feature Importance:
-previous_3_gold_avg: 0.0182
-previous_3_medal_avg: 0.0900
-previous_3_gold_rate_avg: 0.0340
-previous_3_medal_rate_avg: 0.4793
-previous_3_athlete_proportion_avg: 0.0839
-previous_3_male_proportion_avg: 0.0726
-previous_3_medal_ef_avg: 0.1186
-previous_3_participated_events_count_avg: 0.0569
-previous_3_participated_single_events_count_avg: 0.0464
+previous_3_gold_avg: 0.1497
+previous_3_medal_avg: 0.0490
+previous_3_gold_rate_avg: 0.2757
+previous_3_medal_rate_avg: 0.1922
+previous_3_athlete_proportion_avg: 0.0779
+previous_3_male_proportion_avg: 0.0683
+previous_3_medal_ef_avg: 0.0866
+previous_3_participated_events_count_avg: 0.0541
+previous_3_participated_single_events_count_avg: 0.0465
 
 Gold Medal Model:
-R2 Score: 0.1188
-RMSE: 0.7439
+R2 Score: 0.4749
+RMSE: 0.9134
 Feature Importance:
-previous_3_gold_avg: 0.0266
-previous_3_medal_avg: 0.0743
-previous_3_gold_rate_avg: 0.0522
-previous_3_medal_rate_avg: 0.1671
-previous_3_athlete_proportion_avg: 0.1654
-previous_3_female_proportion_avg: 0.0785
-previous_3_male_proportion_avg: 0.1017
-previous_3_medal_ef_avg: 0.1147
-previous_3_participated_events_count_avg: 0.0999
-previous_3_participated_single_events_count_avg: 0.1196
+previous_3_gold_avg: 0.0826
+previous_3_medal_avg: 0.0756
+previous_3_gold_rate_avg: 0.4164
+previous_3_medal_rate_avg: 0.0752
+previous_3_athlete_proportion_avg: 0.0711
+previous_3_male_proportion_avg: 0.0695
+previous_3_medal_ef_avg: 0.1639
+previous_3_participated_events_count_avg: 0.0223
+previous_3_participated_single_events_count_avg: 0.0234
 
 Athletics:
 Total Medal Model:
-R2 Score: 0.8245
-RMSE: 1.1792
+R2 Score: 0.8174
+RMSE: 1.2029
 Feature Importance:
-previous_3_gold_avg: 0.0123
-previous_3_medal_avg: 0.1941
-previous_3_gold_rate_avg: 0.0697
-previous_3_medal_rate_avg: 0.4374
-previous_3_athlete_proportion_avg: 0.0595
-previous_3_female_proportion_avg: 0.0390
-previous_3_male_proportion_avg: 0.1324
+previous_3_gold_avg: 0.0593
+previous_3_medal_avg: 0.1967
+previous_3_gold_rate_avg: 0.0355
+previous_3_medal_rate_avg: 0.4156
+previous_3_athlete_proportion_avg: 0.0701
+previous_3_female_proportion_avg: 0.0429
+previous_3_male_proportion_avg: 0.1264
 previous_3_medal_ef_avg: 0.0158
-previous_3_participated_events_count_avg: 0.0133
-previous_3_participated_single_events_count_avg: 0.0158
-previous_3_participated_team_events_count_avg: 0.0108
+previous_3_participated_events_count_avg: 0.0130
+previous_3_participated_single_events_count_avg: 0.0148
+previous_3_participated_team_events_count_avg: 0.0098
 
 Gold Medal Model:
-R2 Score: 0.7132
-RMSE: 0.5234
+R2 Score: 0.7323
+RMSE: 0.5597
 Feature Importance:
-previous_3_gold_avg: 0.0574
-previous_3_medal_avg: 0.3096
-previous_3_gold_rate_avg: 0.0361
-previous_3_medal_rate_avg: 0.2628
-previous_3_athlete_proportion_avg: 0.1228
-previous_3_female_proportion_avg: 0.0685
-previous_3_male_proportion_avg: 0.0472
-previous_3_medal_ef_avg: 0.0280
-previous_3_participated_events_count_avg: 0.0230
-previous_3_participated_single_events_count_avg: 0.0248
-previous_3_participated_team_events_count_avg: 0.0198
+previous_3_gold_avg: 0.0544
+previous_3_medal_avg: 0.3271
+previous_3_gold_rate_avg: 0.0397
+previous_3_medal_rate_avg: 0.2718
+previous_3_athlete_proportion_avg: 0.0454
+previous_3_female_proportion_avg: 0.0425
+previous_3_male_proportion_avg: 0.1296
+previous_3_medal_ef_avg: 0.0299
+previous_3_participated_events_count_avg: 0.0222
+previous_3_participated_single_events_count_avg: 0.0218
+previous_3_participated_team_events_count_avg: 0.0157
 
 Boxing:
 Total Medal Model:
-R2 Score: 0.4643
-RMSE: 1.0481
+R2 Score: 0.4762
+RMSE: 1.0365
 Feature Importance:
-previous_3_gold_avg: 0.0153
-previous_3_medal_avg: 0.2953
-previous_3_gold_rate_avg: 0.0499
-previous_3_medal_rate_avg: 0.2873
-previous_3_athlete_proportion_avg: 0.1147
-previous_3_male_proportion_avg: 0.0917
-previous_3_medal_ef_avg: 0.0829
-previous_3_participated_events_count_avg: 0.0286
-previous_3_participated_single_events_count_avg: 0.0344
+previous_3_gold_avg: 0.0219
+previous_3_medal_avg: 0.2260
+previous_3_gold_rate_avg: 0.2223
+previous_3_medal_rate_avg: 0.1870
+previous_3_athlete_proportion_avg: 0.1083
+previous_3_male_proportion_avg: 0.0905
+previous_3_medal_ef_avg: 0.0803
+previous_3_participated_events_count_avg: 0.0291
+previous_3_participated_single_events_count_avg: 0.0346
 
 Gold Medal Model:
-R2 Score: 0.3666
-RMSE: 0.6216
+R2 Score: 0.1477
+RMSE: 0.6121
 Feature Importance:
-previous_3_gold_avg: 0.0170
-previous_3_medal_avg: 0.0516
-previous_3_gold_rate_avg: 0.0837
-previous_3_medal_rate_avg: 0.1774
-previous_3_athlete_proportion_avg: 0.2370
-previous_3_male_proportion_avg: 0.1741
-previous_3_medal_ef_avg: 0.0921
-previous_3_participated_events_count_avg: 0.0915
-previous_3_participated_single_events_count_avg: 0.0754
+previous_3_gold_avg: 0.0711
+previous_3_medal_avg: 0.1296
+previous_3_gold_rate_avg: 0.1718
+previous_3_medal_rate_avg: 0.2372
+previous_3_athlete_proportion_avg: 0.1179
+previous_3_male_proportion_avg: 0.0785
+previous_3_medal_ef_avg: 0.1268
+previous_3_participated_events_count_avg: 0.0307
+previous_3_participated_single_events_count_avg: 0.0365
 
 Judo:
 Total Medal Model:
-R2 Score: 0.6194
-RMSE: 0.8974
+R2 Score: 0.6096
+RMSE: 0.9089
 Feature Importance:
-previous_3_gold_avg: 0.0299
-previous_3_medal_avg: 0.2866
-previous_3_gold_rate_avg: 0.0264
-previous_3_medal_rate_avg: 0.3961
-previous_3_athlete_proportion_avg: 0.0504
-previous_3_female_proportion_avg: 0.0420
-previous_3_male_proportion_avg: 0.0493
-previous_3_medal_ef_avg: 0.0355
-previous_3_participated_events_count_avg: 0.0302
-previous_3_participated_single_events_count_avg: 0.0293
-previous_3_participated_team_events_count_avg: 0.0137
+previous_3_gold_avg: 0.0225
+previous_3_medal_avg: 0.3005
+previous_3_gold_rate_avg: 0.0554
+previous_3_medal_rate_avg: 0.3726
+previous_3_athlete_proportion_avg: 0.0525
+previous_3_female_proportion_avg: 0.0433
+previous_3_male_proportion_avg: 0.0552
+previous_3_medal_ef_avg: 0.0345
+previous_3_participated_events_count_avg: 0.0260
+previous_3_participated_single_events_count_avg: 0.0269
 is_host: 0.0106
 
 Gold Medal Model:
-R2 Score: 0.2191
-RMSE: 0.6460
+R2 Score: 0.2595
+RMSE: 0.4997
 Feature Importance:
-previous_3_gold_avg: 0.0383
-previous_3_medal_avg: 0.3197
-previous_3_gold_rate_avg: 0.0623
-previous_3_medal_rate_avg: 0.1350
-previous_3_athlete_proportion_avg: 0.0896
-previous_3_female_proportion_avg: 0.0906
-previous_3_male_proportion_avg: 0.0981
-previous_3_medal_ef_avg: 0.0589
-previous_3_participated_events_count_avg: 0.0447
-previous_3_participated_single_events_count_avg: 0.0392
-previous_3_participated_team_events_count_avg: 0.0235
+previous_3_gold_avg: 0.1535
+previous_3_medal_avg: 0.3753
+previous_3_gold_rate_avg: 0.1023
+previous_3_medal_rate_avg: 0.0766
+previous_3_athlete_proportion_avg: 0.0535
+previous_3_female_proportion_avg: 0.0389
+previous_3_male_proportion_avg: 0.0596
+previous_3_medal_ef_avg: 0.0357
+previous_3_participated_events_count_avg: 0.0239
+previous_3_participated_single_events_count_avg: 0.0404
+is_host: 0.0401
 
 Artistic Gymnastics:
 Total Medal Model:
-R2 Score: 0.0993
-RMSE: 0.8925
+R2 Score: 0.1603
+RMSE: 0.8617
 Feature Importance:
-previous_3_gold_avg: 0.1270
-previous_3_medal_avg: 0.1571
-previous_3_gold_rate_avg: 0.1045
-previous_3_medal_rate_avg: 0.1354
-previous_3_athlete_proportion_avg: 0.1681
-previous_3_female_proportion_avg: 0.1409
-previous_3_male_proportion_avg: 0.1235
-previous_3_participated_events_count_avg: 0.0132
-previous_3_participated_single_events_count_avg: 0.0097
-previous_3_participated_team_events_count_avg: 0.0208
+previous_3_gold_avg: 0.1302
+previous_3_medal_avg: 0.1503
+previous_3_gold_rate_avg: 0.1112
+previous_3_medal_rate_avg: 0.1328
+previous_3_athlete_proportion_avg: 0.1676
+previous_3_female_proportion_avg: 0.1398
+previous_3_male_proportion_avg: 0.1262
+previous_3_participated_events_count_avg: 0.0156
+previous_3_participated_single_events_count_avg: 0.0071
+previous_3_participated_team_events_count_avg: 0.0193
 
 Gold Medal Model:
-R2 Score: -0.1226
-RMSE: 0.5187
+R2 Score: 0.7575
+RMSE: 0.3197
 Feature Importance:
-previous_3_gold_avg: 0.0605
-previous_3_medal_avg: 0.0781
-previous_3_gold_rate_avg: 0.0340
-previous_3_medal_rate_avg: 0.1017
-previous_3_athlete_proportion_avg: 0.2253
-previous_3_female_proportion_avg: 0.3512
-previous_3_male_proportion_avg: 0.0771
-previous_3_participated_events_count_avg: 0.0284
-previous_3_participated_single_events_count_avg: 0.0245
-previous_3_participated_team_events_count_avg: 0.0191
+previous_3_gold_avg: 0.1411
+previous_3_medal_avg: 0.1793
+previous_3_gold_rate_avg: 0.0776
+previous_3_medal_rate_avg: 0.1240
+previous_3_athlete_proportion_avg: 0.1513
+previous_3_female_proportion_avg: 0.1726
+previous_3_male_proportion_avg: 0.0584
+previous_3_participated_events_count_avg: 0.0920
+previous_3_participated_team_events_count_avg: 0.0037
 
 Cycling:
 Total Medal Model:
-R2 Score: 0.2171
-RMSE: 1.4332
+R2 Score: 0.1854
+RMSE: 1.4619
 Feature Importance:
-previous_3_gold_avg: 0.0220
-previous_3_medal_avg: 0.4468
-previous_3_gold_rate_avg: 0.0222
-previous_3_medal_rate_avg: 0.0751
-previous_3_athlete_proportion_avg: 0.0967
-previous_3_female_proportion_avg: 0.0762
-previous_3_male_proportion_avg: 0.0630
-previous_3_female_ratio_avg: 0.0292
-previous_3_medal_ef_avg: 0.0554
-previous_3_participated_events_count_avg: 0.0602
-previous_3_participated_single_events_count_avg: 0.0350
-previous_3_participated_team_events_count_avg: 0.0183
+previous_3_gold_avg: 0.0656
+previous_3_medal_avg: 0.4029
+previous_3_gold_rate_avg: 0.0443
+previous_3_medal_rate_avg: 0.0608
+previous_3_athlete_proportion_avg: 0.0903
+previous_3_female_proportion_avg: 0.0799
+previous_3_male_proportion_avg: 0.0641
+previous_3_female_ratio_avg: 0.0282
+previous_3_medal_ef_avg: 0.0508
+previous_3_participated_events_count_avg: 0.0590
+previous_3_participated_single_events_count_avg: 0.0392
+previous_3_participated_team_events_count_avg: 0.0149
 
 Gold Medal Model:
-R2 Score: 0.3017
-RMSE: 0.4521
+R2 Score: -0.1093
+RMSE: 0.7288
 Feature Importance:
-previous_3_gold_avg: 0.0166
-previous_3_medal_avg: 0.1262
-previous_3_gold_rate_avg: 0.0338
-previous_3_medal_rate_avg: 0.1410
-previous_3_athlete_proportion_avg: 0.0782
-previous_3_female_proportion_avg: 0.1732
-previous_3_male_proportion_avg: 0.0655
-previous_3_female_ratio_avg: 0.0399
-previous_3_medal_ef_avg: 0.0602
-previous_3_participated_events_count_avg: 0.1398
-previous_3_participated_single_events_count_avg: 0.0889
-previous_3_participated_team_events_count_avg: 0.0370
+previous_3_gold_avg: 0.1070
+previous_3_medal_avg: 0.1724
+previous_3_gold_rate_avg: 0.0662
+previous_3_medal_rate_avg: 0.0860
+previous_3_athlete_proportion_avg: 0.1913
+previous_3_female_proportion_avg: 0.0877
+previous_3_male_proportion_avg: 0.1317
+previous_3_medal_ef_avg: 0.0479
+previous_3_participated_events_count_avg: 0.0570
+previous_3_participated_single_events_count_avg: 0.0280
+previous_3_participated_team_events_count_avg: 0.0249
 
 Badminton:
 Total Medal Model:
-R2 Score: 0.6768
-RMSE: 0.7593
+R2 Score: 0.6636
+RMSE: 0.7746
 Feature Importance:
-previous_3_gold_avg: 0.0186
-previous_3_medal_avg: 0.3343
-previous_3_gold_rate_avg: 0.0213
-previous_3_medal_rate_avg: 0.3678
-previous_3_sport_distribution_ratio_avg: 0.0271
-previous_3_athlete_proportion_avg: 0.0558
-previous_3_female_proportion_avg: 0.0437
-previous_3_male_proportion_avg: 0.0566
-previous_3_medal_ef_avg: 0.0507
-previous_3_participated_events_count_avg: 0.0137
-previous_3_participated_team_events_count_avg: 0.0106
+previous_3_gold_avg: 0.0147
+previous_3_medal_avg: 0.3112
+previous_3_gold_rate_avg: 0.0147
+previous_3_medal_rate_avg: 0.3932
+previous_3_sport_distribution_ratio_avg: 0.0236
+previous_3_athlete_proportion_avg: 0.0482
+previous_3_female_proportion_avg: 0.0484
+previous_3_male_proportion_avg: 0.0660
+previous_3_medal_ef_avg: 0.0578
+previous_3_participated_events_count_avg: 0.0163
+previous_3_participated_team_events_count_avg: 0.0060
 
 Gold Medal Model:
-R2 Score: -0.2182
-RMSE: 0.3427
+R2 Score: 0.6442
+RMSE: 0.4201
 Feature Importance:
-previous_3_gold_avg: 0.0678
-previous_3_medal_avg: 0.1171
-previous_3_gold_rate_avg: 0.1112
-previous_3_medal_rate_avg: 0.1688
-previous_3_sport_distribution_ratio_avg: 0.0576
-previous_3_athlete_proportion_avg: 0.1080
-previous_3_female_proportion_avg: 0.1073
-previous_3_male_proportion_avg: 0.0833
-previous_3_medal_ef_avg: 0.1183
-previous_3_participated_events_count_avg: 0.0427
-previous_3_participated_team_events_count_avg: 0.0179
+previous_3_gold_avg: 0.0336
+previous_3_medal_avg: 0.0877
+previous_3_gold_rate_avg: 0.0642
+previous_3_medal_rate_avg: 0.2933
+previous_3_athlete_proportion_avg: 0.2650
+previous_3_female_proportion_avg: 0.0823
+previous_3_male_proportion_avg: 0.1000
+previous_3_medal_ef_avg: 0.0537
+previous_3_participated_events_count_avg: 0.0092
+previous_3_participated_team_events_count_avg: 0.0110
 
 Canoe Slalom:
 Total Medal Model:
-R2 Score: 0.0272
-RMSE: 1.2604
+R2 Score: 0.0778
+RMSE: 1.2272
 Feature Importance:
-previous_3_gold_avg: 0.0534
-previous_3_medal_avg: 0.1218
-previous_3_gold_rate_avg: 0.0550
-previous_3_medal_rate_avg: 0.0877
-previous_3_athlete_proportion_avg: 0.1483
-previous_3_female_proportion_avg: 0.0149
-previous_3_male_proportion_avg: 0.0771
-previous_3_medal_ef_avg: 0.1402
-previous_3_participated_events_count_avg: 0.1307
-previous_3_participated_single_events_count_avg: 0.1711
+previous_3_gold_avg: 0.0620
+previous_3_medal_avg: 0.0997
+previous_3_gold_rate_avg: 0.0915
+previous_3_medal_rate_avg: 0.1221
+previous_3_athlete_proportion_avg: 0.1390
+previous_3_female_proportion_avg: 0.0061
+previous_3_male_proportion_avg: 0.0719
+previous_3_medal_ef_avg: 0.1200
+previous_3_participated_events_count_avg: 0.1218
+previous_3_participated_single_events_count_avg: 0.1659
 
 Gold Medal Model:
-R2 Score: 0.4755
-RMSE: 0.3860
+R2 Score: -0.1073
+RMSE: 0.8412
 Feature Importance:
-previous_3_medal_avg: 0.2398
-previous_3_medal_rate_avg: 0.1992
-previous_3_athlete_proportion_avg: 0.0742
-previous_3_male_proportion_avg: 0.0281
-previous_3_medal_ef_avg: 0.2466
-previous_3_participated_events_count_avg: 0.0673
-previous_3_participated_single_events_count_avg: 0.1447
+previous_3_gold_avg: 0.0000
+previous_3_medal_avg: 0.2929
+previous_3_gold_rate_avg: 0.0101
+previous_3_medal_rate_avg: 0.3939
+previous_3_medal_ef_avg: 0.3030
 
 Fencing:
 Total Medal Model:
-R2 Score: 0.6846
-RMSE: 1.0190
+R2 Score: 0.7042
+RMSE: 0.9868
 Feature Importance:
-previous_3_gold_avg: 0.0259
-previous_3_medal_avg: 0.3007
-previous_3_gold_rate_avg: 0.0539
-previous_3_medal_rate_avg: 0.3562
-previous_3_athlete_proportion_avg: 0.0456
-previous_3_female_proportion_avg: 0.0406
-previous_3_male_proportion_avg: 0.0345
-previous_3_medal_ef_avg: 0.0489
-previous_3_participated_events_count_avg: 0.0219
-previous_3_participated_single_events_count_avg: 0.0580
-previous_3_participated_team_events_count_avg: 0.0139
+previous_3_gold_avg: 0.0212
+previous_3_medal_avg: 0.2902
+previous_3_gold_rate_avg: 0.0741
+previous_3_medal_rate_avg: 0.3466
+previous_3_athlete_proportion_avg: 0.0501
+previous_3_female_proportion_avg: 0.0492
+previous_3_male_proportion_avg: 0.0292
+previous_3_medal_ef_avg: 0.0484
+previous_3_participated_events_count_avg: 0.0250
+previous_3_participated_single_events_count_avg: 0.0531
+previous_3_participated_team_events_count_avg: 0.0128
 
 Gold Medal Model:
-R2 Score: 0.4814
-RMSE: 0.6038
+R2 Score: 0.3145
+RMSE: 0.5381
 Feature Importance:
-previous_3_gold_avg: 0.0765
-previous_3_medal_avg: 0.0695
-previous_3_gold_rate_avg: 0.1089
-previous_3_medal_rate_avg: 0.2760
-previous_3_athlete_proportion_avg: 0.0999
-previous_3_female_proportion_avg: 0.0701
-previous_3_male_proportion_avg: 0.0681
-previous_3_medal_ef_avg: 0.1076
-previous_3_participated_events_count_avg: 0.0303
-previous_3_participated_single_events_count_avg: 0.0621
-previous_3_participated_team_events_count_avg: 0.0311
+previous_3_gold_avg: 0.0480
+previous_3_medal_avg: 0.2652
+previous_3_gold_rate_avg: 0.0799
+previous_3_medal_rate_avg: 0.2308
+previous_3_athlete_proportion_avg: 0.0798
+previous_3_female_proportion_avg: 0.0737
+previous_3_male_proportion_avg: 0.0578
+previous_3_medal_ef_avg: 0.0806
+previous_3_participated_events_count_avg: 0.0185
+previous_3_participated_single_events_count_avg: 0.0518
+previous_3_participated_team_events_count_avg: 0.0139
+
+Football:
+Total Medal Model:
+R2 Score: -0.0270
+RMSE: 0.3921
+Feature Importance:
+previous_3_medal_avg: 0.0787
+previous_3_medal_rate_avg: 0.0537
+previous_3_female_proportion_avg: 0.2036
+previous_3_female_ratio_avg: 0.1226
+previous_3_medal_ef_avg: 0.4724
+previous_3_participated_events_count_avg: 0.0354
+previous_3_participated_team_events_count_avg: 0.0335
+
+Gold Medal Model:
+R2 Score: 0.1549
+RMSE: 0.2758
+Feature Importance:
+previous_3_medal_avg: 0.1429
+previous_3_medal_rate_avg: 0.1133
+previous_3_medal_ef_avg: 0.7439
 
 Gymnastics:
 Total Medal Model:
-R2 Score: 0.6207
-RMSE: 1.7256
+R2 Score: 0.6043
+RMSE: 1.7824
 Feature Importance:
-previous_3_gold_avg: 0.0487
-previous_3_medal_avg: 0.3676
-previous_3_gold_rate_avg: 0.0356
-previous_3_medal_rate_avg: 0.1809
-previous_3_athlete_proportion_avg: 0.0424
-previous_3_female_proportion_avg: 0.0842
-previous_3_male_proportion_avg: 0.0508
-previous_3_medal_ef_avg: 0.1699
-previous_3_participated_events_count_avg: 0.0080
-previous_3_participated_single_events_count_avg: 0.0029
-previous_3_participated_team_events_count_avg: 0.0089
+previous_3_gold_avg: 0.0875
+previous_3_medal_avg: 0.2784
+previous_3_gold_rate_avg: 0.0903
+previous_3_medal_rate_avg: 0.1779
+previous_3_athlete_proportion_avg: 0.0412
+previous_3_female_proportion_avg: 0.0936
+previous_3_male_proportion_avg: 0.0536
+previous_3_medal_ef_avg: 0.1564
+previous_3_participated_events_count_avg: 0.0096
+previous_3_participated_single_events_count_avg: 0.0033
+previous_3_participated_team_events_count_avg: 0.0082
 
 Gold Medal Model:
-R2 Score: 0.4040
-RMSE: 0.5790
+R2 Score: 0.3266
+RMSE: 1.0223
 Feature Importance:
-previous_3_gold_avg: 0.0394
-previous_3_medal_avg: 0.4038
-previous_3_gold_rate_avg: 0.0464
-previous_3_medal_rate_avg: 0.1489
-previous_3_athlete_proportion_avg: 0.0614
-previous_3_female_proportion_avg: 0.0979
-previous_3_male_proportion_avg: 0.0523
-previous_3_medal_ef_avg: 0.1069
-previous_3_participated_events_count_avg: 0.0185
-previous_3_participated_single_events_count_avg: 0.0101
-previous_3_participated_team_events_count_avg: 0.0143
+previous_3_gold_avg: 0.0667
+previous_3_medal_avg: 0.1793
+previous_3_gold_rate_avg: 0.0972
+previous_3_medal_rate_avg: 0.1656
+previous_3_athlete_proportion_avg: 0.0668
+previous_3_female_proportion_avg: 0.0784
+previous_3_male_proportion_avg: 0.0564
+previous_3_medal_ef_avg: 0.2627
+previous_3_participated_events_count_avg: 0.0127
+previous_3_participated_single_events_count_avg: 0.0035
+previous_3_participated_team_events_count_avg: 0.0108
+
+Handball:
+Total Medal Model:
+R2 Score: -0.0490
+RMSE: 0.5793
+Feature Importance:
+previous_3_gold_avg: 0.1364
+previous_3_medal_avg: 0.0771
+previous_3_gold_rate_avg: 0.1404
+previous_3_medal_rate_avg: 0.1050
+previous_3_medal_ef_avg: 0.4100
+previous_3_participated_events_count_avg: 0.0707
+previous_3_participated_team_events_count_avg: 0.0604
+
+Gold Medal Model:
+R2 Score: -1.2213
+RMSE: 0.3680
+Feature Importance:
+previous_3_gold_avg: 0.1881
+previous_3_medal_avg: 0.0860
+previous_3_gold_rate_avg: 0.1914
+previous_3_medal_rate_avg: 0.0944
+previous_3_medal_ef_avg: 0.4401
 
 Sailing:
 Total Medal Model:
-R2 Score: 0.5182
-RMSE: 0.7256
+R2 Score: 0.4841
+RMSE: 0.7508
 Feature Importance:
-previous_3_gold_avg: 0.0269
-previous_3_medal_avg: 0.1771
-previous_3_gold_rate_avg: 0.0432
-previous_3_medal_rate_avg: 0.1703
-previous_3_athlete_proportion_avg: 0.1138
-previous_3_male_proportion_avg: 0.0730
-previous_3_medal_ef_avg: 0.0948
-previous_3_participated_events_count_avg: 0.0733
-previous_3_participated_single_events_count_avg: 0.0322
-previous_3_participated_team_events_count_avg: 0.1954
+previous_3_gold_avg: 0.1012
+previous_3_medal_avg: 0.1302
+previous_3_gold_rate_avg: 0.1259
+previous_3_medal_rate_avg: 0.1195
+previous_3_athlete_proportion_avg: 0.1095
+previous_3_male_proportion_avg: 0.0793
+previous_3_medal_ef_avg: 0.0772
+previous_3_participated_events_count_avg: 0.0622
+previous_3_participated_single_events_count_avg: 0.0328
+previous_3_participated_team_events_count_avg: 0.1620
 
 Gold Medal Model:
-R2 Score: 0.2327
-RMSE: 0.4132
+R2 Score: 0.2006
+RMSE: 0.4217
 Feature Importance:
-previous_3_gold_avg: 0.0249
-previous_3_medal_avg: 0.0647
-previous_3_gold_rate_avg: 0.1079
-previous_3_medal_rate_avg: 0.1019
-previous_3_athlete_proportion_avg: 0.1211
-previous_3_male_proportion_avg: 0.1349
-previous_3_medal_ef_avg: 0.1150
-previous_3_participated_events_count_avg: 0.1001
-previous_3_participated_single_events_count_avg: 0.0643
-previous_3_participated_team_events_count_avg: 0.1653
+previous_3_gold_avg: 0.0843
+previous_3_medal_avg: 0.0403
+previous_3_gold_rate_avg: 0.1931
+previous_3_medal_rate_avg: 0.1401
+previous_3_athlete_proportion_avg: 0.1364
+previous_3_male_proportion_avg: 0.0973
+previous_3_medal_ef_avg: 0.0925
+previous_3_participated_events_count_avg: 0.1222
+previous_3_participated_single_events_count_avg: 0.0394
+previous_3_participated_team_events_count_avg: 0.0543
 
 Table Tennis:
 Total Medal Model:
-R2 Score: 0.5750
-RMSE: 0.6454
+R2 Score: 0.5669
+RMSE: 0.6514
 Feature Importance:
-previous_3_gold_avg: 0.0055
-previous_3_medal_avg: 0.1692
-previous_3_gold_rate_avg: 0.0063
-previous_3_medal_rate_avg: 0.2120
-previous_3_athlete_proportion_avg: 0.2564
-previous_3_female_proportion_avg: 0.1321
-previous_3_male_proportion_avg: 0.1103
-previous_3_medal_ef_avg: 0.0699
-previous_3_participated_events_count_avg: 0.0028
-previous_3_participated_team_events_count_avg: 0.0035
-is_host: 0.0321
+previous_3_gold_avg: 0.1849
+previous_3_medal_avg: 0.0991
+previous_3_gold_rate_avg: 0.1927
+previous_3_medal_rate_avg: 0.1263
+previous_3_athlete_proportion_avg: 0.1292
+previous_3_female_proportion_avg: 0.0937
+previous_3_male_proportion_avg: 0.0792
+previous_3_medal_ef_avg: 0.0525
+previous_3_participated_events_count_avg: 0.0046
+previous_3_participated_team_events_count_avg: 0.0039
+is_host: 0.0338
 
 Gold Medal Model:
-R2 Score: -2.0483
-RMSE: 0.2936
+R2 Score: 0.8640
+RMSE: 0.2427
 Feature Importance:
-previous_3_gold_avg: 0.0263
-previous_3_medal_avg: 0.1280
-previous_3_gold_rate_avg: 0.0279
-previous_3_medal_rate_avg: 0.1524
-previous_3_athlete_proportion_avg: 0.1640
-previous_3_female_proportion_avg: 0.0670
-previous_3_male_proportion_avg: 0.0729
-previous_3_medal_ef_avg: 0.2732
-previous_3_participated_events_count_avg: 0.0220
-previous_3_participated_team_events_count_avg: 0.0123
-is_host: 0.0541
+previous_3_gold_avg: 0.1280
+previous_3_medal_avg: 0.2376
+previous_3_gold_rate_avg: 0.1089
+previous_3_medal_rate_avg: 0.1625
+previous_3_athlete_proportion_avg: 0.1012
+previous_3_female_proportion_avg: 0.1072
+previous_3_male_proportion_avg: 0.1183
+previous_3_medal_ef_avg: 0.0362
+previous_3_participated_team_events_count_avg: 0.0001
 
 Trampolining:
 Total Medal Model:
-R2 Score: 0.1871
-RMSE: 0.7497
+R2 Score: -0.2595
+RMSE: 0.9331
 Feature Importance:
-previous_3_gold_avg: 0.1590
-previous_3_medal_avg: 0.0733
-previous_3_gold_rate_avg: 0.1968
-previous_3_medal_rate_avg: 0.0872
-previous_3_athlete_proportion_avg: 0.1528
-previous_3_female_proportion_avg: 0.1099
-previous_3_male_proportion_avg: 0.0755
-previous_3_medal_ef_avg: 0.0937
-previous_3_participated_events_count_avg: 0.0215
-previous_3_participated_single_events_count_avg: 0.0302
+previous_3_gold_avg: 0.0397
+previous_3_medal_avg: 0.1573
+previous_3_gold_rate_avg: 0.0599
+previous_3_medal_rate_avg: 0.1929
+previous_3_athlete_proportion_avg: 0.1373
+previous_3_female_proportion_avg: 0.1370
+previous_3_male_proportion_avg: 0.0800
+previous_3_medal_ef_avg: 0.1416
+previous_3_participated_events_count_avg: 0.0257
+previous_3_participated_single_events_count_avg: 0.0287
 
 Gold Medal Model:
-R2 Score: 0.0231
-RMSE: 0.5267
+R2 Score: -0.1244
+RMSE: 0.5650
 Feature Importance:
-previous_3_gold_avg: 0.0908
-previous_3_medal_avg: 0.2746
-previous_3_gold_rate_avg: 0.1910
-previous_3_medal_rate_avg: 0.3160
-previous_3_medal_ef_avg: 0.1277
+previous_3_medal_avg: 0.3188
+previous_3_medal_rate_avg: 0.2897
+previous_3_medal_ef_avg: 0.3749
+is_host: 0.0166
+
+Volleyball:
+Total Medal Model:
+R2 Score: -0.0262
+RMSE: 0.5098
+Feature Importance:
+previous_3_gold_avg: 0.0537
+previous_3_medal_avg: 0.0924
+previous_3_gold_rate_avg: 0.0464
+previous_3_medal_rate_avg: 0.1620
+previous_3_athlete_proportion_avg: 0.2054
+previous_3_female_proportion_avg: 0.1260
+previous_3_male_proportion_avg: 0.1520
+previous_3_medal_ef_avg: 0.0765
+previous_3_participated_events_count_avg: 0.0261
+previous_3_participated_team_events_count_avg: 0.0596
+
+Gold Medal Model:
+R2 Score: -1.6960
+RMSE: 0.2322
+Feature Importance:
+previous_3_gold_avg: 0.0471
+previous_3_medal_avg: 0.1076
+previous_3_gold_rate_avg: 0.0516
+previous_3_medal_rate_avg: 0.0758
+previous_3_athlete_proportion_avg: 0.3232
+previous_3_female_proportion_avg: 0.1960
+previous_3_medal_ef_avg: 0.1508
+previous_3_participated_events_count_avg: 0.0317
+previous_3_participated_team_events_count_avg: 0.0162
 
 Archery:
 Total Medal Model:
-R2 Score: 0.3242
-RMSE: 0.5432
+R2 Score: 0.3321
+RMSE: 0.5400
 Feature Importance:
-previous_3_gold_avg: 0.0124
-previous_3_medal_avg: 0.0304
-previous_3_gold_rate_avg: 0.0300
-previous_3_medal_rate_avg: 0.1413
-previous_3_medal_ef_avg: 0.5646
-previous_3_participated_events_count_avg: 0.0435
-previous_3_participated_single_events_count_avg: 0.0333
-previous_3_participated_team_events_count_avg: 0.1021
-is_host: 0.0425
+previous_3_gold_avg: 0.0145
+previous_3_medal_avg: 0.0615
+previous_3_gold_rate_avg: 0.4648
+previous_3_medal_rate_avg: 0.0821
+previous_3_medal_ef_avg: 0.2049
+previous_3_participated_events_count_avg: 0.0410
+previous_3_participated_single_events_count_avg: 0.0486
+previous_3_participated_team_events_count_avg: 0.0462
+is_host: 0.0364
 
 Gold Medal Model:
-R2 Score: -0.1719
-RMSE: 0.2190
+R2 Score: 0.3344
+RMSE: 0.3562
 Feature Importance:
-previous_3_gold_rate_avg: 0.1423
-previous_3_medal_rate_avg: 0.1847
-previous_3_medal_ef_avg: 0.3534
-previous_3_participated_events_count_avg: 0.1532
-previous_3_participated_team_events_count_avg: 0.1664
+previous_3_gold_avg: 0.0766
+previous_3_medal_avg: 0.0400
+previous_3_gold_rate_avg: 0.6078
+previous_3_medal_rate_avg: 0.1464
+previous_3_medal_ef_avg: 0.0656
+previous_3_participated_events_count_avg: 0.0318
+previous_3_participated_team_events_count_avg: 0.0318
 
 Canoeing:
 Total Medal Model:
-R2 Score: 0.5849
-RMSE: 1.0930
+R2 Score: 0.5811
+RMSE: 1.0979
 Feature Importance:
-previous_3_gold_avg: 0.0198
-previous_3_medal_avg: 0.2004
-previous_3_gold_rate_avg: 0.0321
-previous_3_medal_rate_avg: 0.4500
-previous_3_athlete_proportion_avg: 0.0406
-previous_3_female_proportion_avg: 0.0313
+previous_3_gold_avg: 0.0126
+previous_3_medal_avg: 0.1955
+previous_3_gold_rate_avg: 0.0533
+previous_3_medal_rate_avg: 0.4374
+previous_3_athlete_proportion_avg: 0.0429
+previous_3_female_proportion_avg: 0.0262
 previous_3_male_proportion_avg: 0.0447
-previous_3_female_ratio_avg: 0.0460
-previous_3_medal_ef_avg: 0.0515
-previous_3_participated_events_count_avg: 0.0399
-previous_3_participated_single_events_count_avg: 0.0237
-previous_3_participated_team_events_count_avg: 0.0199
+previous_3_female_ratio_avg: 0.0492
+previous_3_medal_ef_avg: 0.0547
+previous_3_participated_events_count_avg: 0.0403
+previous_3_participated_single_events_count_avg: 0.0244
+previous_3_participated_team_events_count_avg: 0.0188
 
 Gold Medal Model:
-R2 Score: 0.3463
-RMSE: 0.5402
+R2 Score: 0.4600
+RMSE: 0.6162
 Feature Importance:
-previous_3_gold_avg: 0.1168
-previous_3_medal_avg: 0.1505
-previous_3_gold_rate_avg: 0.1355
-previous_3_medal_rate_avg: 0.1347
-previous_3_athlete_proportion_avg: 0.0558
-previous_3_female_proportion_avg: 0.0751
-previous_3_male_proportion_avg: 0.0606
-previous_3_female_ratio_avg: 0.0749
-previous_3_medal_ef_avg: 0.0542
-previous_3_participated_events_count_avg: 0.0479
-previous_3_participated_single_events_count_avg: 0.0582
-previous_3_participated_team_events_count_avg: 0.0357
+previous_3_gold_avg: 0.1485
+previous_3_medal_avg: 0.1845
+previous_3_gold_rate_avg: 0.2435
+previous_3_medal_rate_avg: 0.0969
+previous_3_athlete_proportion_avg: 0.0802
+previous_3_female_proportion_avg: 0.0403
+previous_3_male_proportion_avg: 0.0561
+previous_3_medal_ef_avg: 0.0604
+previous_3_participated_events_count_avg: 0.0322
+previous_3_participated_single_events_count_avg: 0.0307
+previous_3_participated_team_events_count_avg: 0.0269
 
 Basketball:
 Total Medal Model:
-R2 Score: 0.3402
-RMSE: 0.5454
+R2 Score: 0.2832
+RMSE: 0.5685
 Feature Importance:
-previous_3_gold_avg: 0.0268
-previous_3_medal_avg: 0.1849
-previous_3_gold_rate_avg: 0.0220
-previous_3_medal_rate_avg: 0.2458
-previous_3_athlete_proportion_avg: 0.1568
-previous_3_female_proportion_avg: 0.0771
-previous_3_male_proportion_avg: 0.0958
-previous_3_medal_ef_avg: 0.1345
-previous_3_participated_events_count_avg: 0.0281
-previous_3_participated_team_events_count_avg: 0.0283
+previous_3_gold_avg: 0.0995
+previous_3_medal_avg: 0.1530
+previous_3_gold_rate_avg: 0.0751
+previous_3_medal_rate_avg: 0.1819
+previous_3_athlete_proportion_avg: 0.1408
+previous_3_female_proportion_avg: 0.0845
+previous_3_male_proportion_avg: 0.0950
+previous_3_medal_ef_avg: 0.1191
+previous_3_participated_events_count_avg: 0.0221
+previous_3_participated_team_events_count_avg: 0.0289
 
 Gold Medal Model:
-R2 Score: -0.1863
-RMSE: 0.4120
+R2 Score: 0.4892
+RMSE: 0.2679
 Feature Importance:
-previous_3_gold_avg: 0.1384
-previous_3_medal_avg: 0.2726
-previous_3_gold_rate_avg: 0.1598
-previous_3_medal_rate_avg: 0.1279
-previous_3_medal_ef_avg: 0.3013
+previous_3_gold_avg: 0.1042
+previous_3_medal_avg: 0.2561
+previous_3_gold_rate_avg: 0.3281
+previous_3_medal_rate_avg: 0.1940
+previous_3_athlete_proportion_avg: 0.0556
+previous_3_female_proportion_avg: 0.0146
+previous_3_male_proportion_avg: 0.0155
+previous_3_medal_ef_avg: 0.0251
+previous_3_participated_events_count_avg: 0.0039
+previous_3_participated_team_events_count_avg: 0.0030
 
 Beach Volleyball:
 Total Medal Model:
-R2 Score: 0.1246
-RMSE: 0.6545
+R2 Score: 0.1151
+RMSE: 0.6581
 Feature Importance:
-previous_3_gold_avg: 0.0097
-previous_3_medal_avg: 0.2735
-previous_3_gold_rate_avg: 0.0084
-previous_3_medal_rate_avg: 0.3455
-previous_3_athlete_proportion_avg: 0.1374
-previous_3_female_proportion_avg: 0.0752
-previous_3_male_proportion_avg: 0.0757
-previous_3_medal_ef_avg: 0.0428
-previous_3_participated_events_count_avg: 0.0154
-previous_3_participated_team_events_count_avg: 0.0164
+previous_3_gold_avg: 0.0242
+previous_3_medal_avg: 0.2682
+previous_3_gold_rate_avg: 0.0276
+previous_3_medal_rate_avg: 0.3401
+previous_3_athlete_proportion_avg: 0.1331
+previous_3_female_proportion_avg: 0.0680
+previous_3_male_proportion_avg: 0.0709
+previous_3_medal_ef_avg: 0.0355
+previous_3_participated_events_count_avg: 0.0141
+previous_3_participated_team_events_count_avg: 0.0184
 
 Gold Medal Model:
-R2 Score: -0.0130
-RMSE: 0.3125
+R2 Score: -0.1724
+RMSE: 0.3362
 Feature Importance:
-previous_3_medal_avg: 0.3378
-previous_3_medal_rate_avg: 0.3241
-previous_3_medal_ef_avg: 0.3381
+previous_3_gold_avg: 0.0583
+previous_3_medal_avg: 0.0735
+previous_3_gold_rate_avg: 0.1144
+previous_3_medal_rate_avg: 0.0910
+previous_3_athlete_proportion_avg: 0.4210
+previous_3_female_proportion_avg: 0.0381
+previous_3_male_proportion_avg: 0.1142
+previous_3_medal_ef_avg: 0.0617
+previous_3_participated_events_count_avg: 0.0132
+previous_3_participated_team_events_count_avg: 0.0147
 
 Cycling BMX Freestyle:
 Total Medal Model:
-R2 Score: -0.5143
-RMSE: 0.5801
+R2 Score: -0.5168
+RMSE: 0.5806
 Feature Importance:
-previous_3_medal_avg: 0.3395
-previous_3_medal_rate_avg: 0.3264
-previous_3_male_proportion_avg: 0.3341
+previous_3_gold_avg: 0.0758
+previous_3_medal_avg: 0.2904
+previous_3_gold_rate_avg: 0.0483
+previous_3_medal_rate_avg: 0.3244
+previous_3_male_proportion_avg: 0.2611
 
 Gold Medal Model:
-R2 Score: 0.4293
-RMSE: 0.2815
+R2 Score: 0.0804
+RMSE: 0.3574
 Feature Importance:
-previous_3_male_proportion_avg: 0.8647
-is_host: 0.1353
+previous_3_athlete_proportion_avg: 0.2245
+previous_3_female_proportion_avg: 0.1939
+previous_3_female_ratio_avg: 0.1429
+previous_3_participated_events_count_avg: 0.2245
+previous_3_participated_single_events_count_avg: 0.2143
 
 Cycling BMX Racing:
 Total Medal Model:
@@ -782,437 +843,490 @@ previous_3_male_proportion_avg: 0.4696
 is_host: 0.1532
 
 Gold Medal Model:
-R2 Score: -0.1836
-RMSE: 0.4523
+R2 Score: -0.2216
+RMSE: 0.4595
 Feature Importance:
-previous_3_athlete_proportion_avg: 0.3524
-previous_3_male_proportion_avg: 0.3418
-is_host: 0.3057
+previous_3_athlete_proportion_avg: 0.5868
+is_host: 0.4132
 
 Diving:
 Total Medal Model:
-R2 Score: 0.6985
-RMSE: 1.0205
+R2 Score: 0.7752
+RMSE: 0.8471
 Feature Importance:
-previous_3_gold_avg: 0.0122
-previous_3_medal_avg: 0.2896
-previous_3_gold_rate_avg: 0.0210
-previous_3_medal_rate_avg: 0.4257
-previous_3_athlete_proportion_avg: 0.0421
-previous_3_female_proportion_avg: 0.0556
-previous_3_male_proportion_avg: 0.0335
-previous_3_medal_ef_avg: 0.0608
-previous_3_participated_events_count_avg: 0.0241
+previous_3_gold_avg: 0.1696
+previous_3_medal_avg: 0.2090
+previous_3_gold_rate_avg: 0.1672
+previous_3_medal_rate_avg: 0.2290
+previous_3_athlete_proportion_avg: 0.0380
+previous_3_female_proportion_avg: 0.0553
+previous_3_male_proportion_avg: 0.0341
+previous_3_medal_ef_avg: 0.0499
+previous_3_participated_events_count_avg: 0.0202
 previous_3_participated_single_events_count_avg: 0.0086
-previous_3_participated_team_events_count_avg: 0.0270
+previous_3_participated_team_events_count_avg: 0.0191
 
 Gold Medal Model:
-R2 Score: 0.3968
-RMSE: 0.5376
+R2 Score: 0.7047
+RMSE: 0.4575
 Feature Importance:
-previous_3_gold_avg: 0.0297
-previous_3_medal_avg: 0.1924
-previous_3_gold_rate_avg: 0.0780
-previous_3_medal_rate_avg: 0.1108
-previous_3_athlete_proportion_avg: 0.1305
-previous_3_female_proportion_avg: 0.1482
-previous_3_male_proportion_avg: 0.0756
-previous_3_medal_ef_avg: 0.1032
-previous_3_participated_events_count_avg: 0.0566
-previous_3_participated_single_events_count_avg: 0.0351
-previous_3_participated_team_events_count_avg: 0.0398
+previous_3_gold_avg: 0.3502
+previous_3_medal_avg: 0.0511
+previous_3_gold_rate_avg: 0.3867
+previous_3_medal_rate_avg: 0.0851
+previous_3_athlete_proportion_avg: 0.0289
+previous_3_female_proportion_avg: 0.0172
+previous_3_male_proportion_avg: 0.0259
+previous_3_medal_ef_avg: 0.0350
+previous_3_participated_events_count_avg: 0.0089
+previous_3_participated_single_events_count_avg: 0.0015
+previous_3_participated_team_events_count_avg: 0.0096
 
 Equestrian:
 Total Medal Model:
-R2 Score: 0.1540
-RMSE: 0.5726
+R2 Score: 0.1440
+RMSE: 0.5759
 Feature Importance:
-previous_3_gold_avg: 0.0274
-previous_3_medal_avg: 0.1472
-previous_3_gold_rate_avg: 0.0507
-previous_3_medal_rate_avg: 0.2066
-previous_3_athlete_proportion_avg: 0.1301
-previous_3_female_proportion_avg: 0.0270
-previous_3_male_proportion_avg: 0.0775
-previous_3_medal_ef_avg: 0.2219
-previous_3_participated_events_count_avg: 0.0490
-previous_3_participated_single_events_count_avg: 0.0407
-previous_3_participated_team_events_count_avg: 0.0220
+previous_3_gold_avg: 0.0886
+previous_3_medal_avg: 0.0916
+previous_3_gold_rate_avg: 0.1293
+previous_3_medal_rate_avg: 0.1788
+previous_3_athlete_proportion_avg: 0.1215
+previous_3_female_proportion_avg: 0.0239
+previous_3_male_proportion_avg: 0.0656
+previous_3_medal_ef_avg: 0.1871
+previous_3_participated_events_count_avg: 0.0653
+previous_3_participated_single_events_count_avg: 0.0361
+previous_3_participated_team_events_count_avg: 0.0122
 
 Gold Medal Model:
-R2 Score: 0.6544
-RMSE: 0.1281
+R2 Score: 0.0469
+RMSE: 0.2128
 Feature Importance:
-previous_3_gold_avg: 0.1718
-previous_3_medal_avg: 0.1486
-previous_3_gold_rate_avg: 0.1708
-previous_3_medal_rate_avg: 0.0524
-previous_3_athlete_proportion_avg: 0.0808
-previous_3_male_proportion_avg: 0.2457
-previous_3_medal_ef_avg: 0.0531
-previous_3_participated_events_count_avg: 0.0737
-previous_3_participated_team_events_count_avg: 0.0032
+previous_3_gold_avg: 0.1288
+previous_3_medal_avg: 0.1822
+previous_3_gold_rate_avg: 0.1806
+previous_3_medal_rate_avg: 0.1358
+previous_3_athlete_proportion_avg: 0.2427
+previous_3_female_proportion_avg: 0.0045
+previous_3_medal_ef_avg: 0.1255
+previous_3_participated_team_events_count_avg: 0.0000
 
 Equestrianism:
 Total Medal Model:
-R2 Score: 0.6070
-RMSE: 0.7834
+R2 Score: 0.5993
+RMSE: 0.7911
 Feature Importance:
-previous_3_gold_avg: 0.0533
-previous_3_medal_avg: 0.1328
-previous_3_gold_rate_avg: 0.0845
-previous_3_medal_rate_avg: 0.1501
-previous_3_athlete_proportion_avg: 0.0818
-previous_3_female_proportion_avg: 0.0911
-previous_3_male_proportion_avg: 0.1085
-previous_3_medal_ef_avg: 0.0789
-previous_3_participated_events_count_avg: 0.1312
-previous_3_participated_single_events_count_avg: 0.0318
-previous_3_participated_team_events_count_avg: 0.0561
+previous_3_gold_avg: 0.0333
+previous_3_medal_avg: 0.1420
+previous_3_gold_rate_avg: 0.0319
+previous_3_medal_rate_avg: 0.1879
+previous_3_athlete_proportion_avg: 0.0889
+previous_3_female_proportion_avg: 0.1072
+previous_3_male_proportion_avg: 0.0979
+previous_3_medal_ef_avg: 0.0985
+previous_3_participated_events_count_avg: 0.1251
+previous_3_participated_single_events_count_avg: 0.0322
+previous_3_participated_team_events_count_avg: 0.0551
 
 Gold Medal Model:
-R2 Score: -0.0650
-RMSE: 0.5273
+R2 Score: 0.5310
+RMSE: 0.3861
 Feature Importance:
-previous_3_gold_avg: 0.0299
-previous_3_medal_avg: 0.0939
-previous_3_gold_rate_avg: 0.0616
-previous_3_medal_rate_avg: 0.1257
-previous_3_athlete_proportion_avg: 0.2350
-previous_3_female_proportion_avg: 0.0775
-previous_3_male_proportion_avg: 0.1106
-previous_3_medal_ef_avg: 0.0981
-previous_3_participated_events_count_avg: 0.0999
-previous_3_participated_single_events_count_avg: 0.0233
-previous_3_participated_team_events_count_avg: 0.0445
+previous_3_gold_avg: 0.0360
+previous_3_medal_avg: 0.1462
+previous_3_gold_rate_avg: 0.0308
+previous_3_medal_rate_avg: 0.3126
+previous_3_athlete_proportion_avg: 0.0992
+previous_3_female_proportion_avg: 0.1198
+previous_3_male_proportion_avg: 0.0953
+previous_3_medal_ef_avg: 0.0979
+previous_3_participated_events_count_avg: 0.0301
+previous_3_participated_single_events_count_avg: 0.0145
+previous_3_participated_team_events_count_avg: 0.0176
 
 Golf:
 Total Medal Model:
-R2 Score: 0.0955
-RMSE: 0.3544
+R2 Score: 0.0194
+RMSE: 0.3690
 Feature Importance:
-previous_3_gold_avg: 0.1271
-previous_3_medal_avg: 0.1455
-previous_3_gold_rate_avg: 0.1000
-previous_3_medal_rate_avg: 0.0968
-previous_3_athlete_proportion_avg: 0.2424
-previous_3_male_proportion_avg: 0.1197
-previous_3_medal_ef_avg: 0.1685
+previous_3_gold_avg: 0.0181
+previous_3_medal_avg: 0.1457
+previous_3_gold_rate_avg: 0.0173
+previous_3_medal_rate_avg: 0.1174
+previous_3_athlete_proportion_avg: 0.2555
+previous_3_male_proportion_avg: 0.1374
+previous_3_medal_ef_avg: 0.1991
+previous_3_participated_team_events_count_avg: 0.1095
 
 Gold Medal Model:
-R2 Score: 0.0000
-RMSE: 0.0908
+R2 Score: -0.0949
+RMSE: 0.2892
 Feature Importance:
-previous_3_gold_avg: 0.0946
-previous_3_medal_avg: 0.0953
-previous_3_gold_rate_avg: 0.0797
-previous_3_medal_rate_avg: 0.0442
-previous_3_athlete_proportion_avg: 0.1567
-previous_3_male_proportion_avg: 0.0723
-previous_3_medal_ef_avg: 0.4572
+previous_3_gold_avg: 0.0356
+previous_3_medal_avg: 0.1545
+previous_3_gold_rate_avg: 0.0354
+previous_3_medal_rate_avg: 0.1159
+previous_3_athlete_proportion_avg: 0.3169
+previous_3_male_proportion_avg: 0.1546
+previous_3_medal_ef_avg: 0.0326
+previous_3_participated_team_events_count_avg: 0.1545
 
 Hockey:
 Total Medal Model:
-R2 Score: 0.2131
-RMSE: 0.5470
+R2 Score: 0.1739
+RMSE: 0.5605
 Feature Importance:
-previous_3_gold_avg: 0.0542
-previous_3_medal_avg: 0.2128
-previous_3_medal_rate_avg: 0.0450
-previous_3_athlete_proportion_avg: 0.3303
-previous_3_female_proportion_avg: 0.1619
-previous_3_medal_ef_avg: 0.1426
-previous_3_participated_events_count_avg: 0.0266
+previous_3_gold_avg: 0.1121
+previous_3_medal_avg: 0.1063
+previous_3_gold_rate_avg: 0.1005
+previous_3_medal_rate_avg: 0.0315
+previous_3_athlete_proportion_avg: 0.2990
+previous_3_female_proportion_avg: 0.1494
+previous_3_medal_ef_avg: 0.1473
+previous_3_participated_events_count_avg: 0.0275
 previous_3_participated_team_events_count_avg: 0.0265
 
 Gold Medal Model:
-R2 Score: 0.1751
-RMSE: 0.3633
+R2 Score: -0.0392
+RMSE: 0.3695
 Feature Importance:
-previous_3_medal_avg: 0.5664
-previous_3_medal_rate_avg: 0.4336
+previous_3_gold_avg: 0.2557
+previous_3_medal_avg: 0.0949
+previous_3_gold_rate_avg: 0.0955
+previous_3_medal_rate_avg: 0.0459
+previous_3_medal_ef_avg: 0.3849
+previous_3_participated_events_count_avg: 0.0617
+previous_3_participated_team_events_count_avg: 0.0615
 
 Modern Pentathlon:
 Total Medal Model:
-R2 Score: 0.0038
-RMSE: 0.4990
+R2 Score: 0.0199
+RMSE: 0.4949
 Feature Importance:
-previous_3_gold_avg: 0.0341
-previous_3_medal_avg: 0.3203
-previous_3_gold_rate_avg: 0.0372
-previous_3_medal_rate_avg: 0.0781
-previous_3_athlete_proportion_avg: 0.4447
-previous_3_medal_ef_avg: 0.0857
+previous_3_gold_avg: 0.0422
+previous_3_medal_avg: 0.3234
+previous_3_gold_rate_avg: 0.0316
+previous_3_medal_rate_avg: 0.0750
+previous_3_athlete_proportion_avg: 0.4380
+previous_3_medal_ef_avg: 0.0898
 
 Gold Medal Model:
-R2 Score: 0.0878
-RMSE: 0.2146
+R2 Score: 0.2478
+RMSE: 0.3090
 Feature Importance:
-previous_3_medal_avg: 0.8063
-previous_3_medal_rate_avg: 0.1937
+previous_3_gold_avg: 0.4044
+previous_3_medal_avg: 0.2146
+previous_3_medal_rate_avg: 0.1947
+previous_3_medal_ef_avg: 0.1863
+
+Rugby Sevens:
+Total Medal Model:
+R2 Score: -1.6334
+RMSE: 0.6746
+Feature Importance:
+previous_3_gold_avg: 0.0782
+previous_3_medal_avg: 0.0742
+previous_3_gold_rate_avg: 0.0617
+previous_3_medal_rate_avg: 0.0865
+previous_3_sport_distribution_ratio_avg: 0.4876
+previous_3_medal_ef_avg: 0.2118
+
+Gold Medal Model:
+R2 Score: 0.0000
+RMSE: 0.3777
+Feature Importance:
+previous_3_gold_avg: 0.1170
+previous_3_medal_avg: 0.1296
+previous_3_gold_rate_avg: 0.0984
+previous_3_medal_rate_avg: 0.1405
+previous_3_medal_ef_avg: 0.5144
 
 Skateboarding:
 Total Medal Model:
-R2 Score: 0.1464
-RMSE: 1.6758
+R2 Score: 0.1404
+RMSE: 1.6817
 Feature Importance:
-previous_3_gold_avg: 0.0294
-previous_3_medal_avg: 0.1193
-previous_3_gold_rate_avg: 0.0115
-previous_3_medal_rate_avg: 0.1017
-previous_3_athlete_proportion_avg: 0.1534
-previous_3_female_proportion_avg: 0.0359
-previous_3_male_proportion_avg: 0.0833
-previous_3_medal_ef_avg: 0.1144
-previous_3_participated_events_count_avg: 0.1847
-previous_3_participated_single_events_count_avg: 0.1664
+previous_3_gold_avg: 0.0052
+previous_3_medal_avg: 0.1354
+previous_3_gold_rate_avg: 0.0000
+previous_3_medal_rate_avg: 0.1004
+previous_3_athlete_proportion_avg: 0.1635
+previous_3_female_proportion_avg: 0.0360
+previous_3_male_proportion_avg: 0.0847
+previous_3_medal_ef_avg: 0.1317
+previous_3_participated_events_count_avg: 0.1780
+previous_3_participated_single_events_count_avg: 0.1650
 is_host: 0.0000
 
 Gold Medal Model:
-R2 Score: -1.8592
-RMSE: 0.5073
+R2 Score: 0.1204
+RMSE: 0.9610
 Feature Importance:
-previous_3_gold_avg: 0.1136
-previous_3_medal_avg: 0.1353
-previous_3_gold_rate_avg: 0.0864
-previous_3_medal_rate_avg: 0.1559
-previous_3_athlete_proportion_avg: 0.1270
-previous_3_female_proportion_avg: 0.0753
-previous_3_male_proportion_avg: 0.0722
-previous_3_medal_ef_avg: 0.2342
+previous_3_gold_avg: 0.4220
+previous_3_medal_avg: 0.0000
+previous_3_gold_rate_avg: 0.2633
+previous_3_medal_rate_avg: 0.0114
+previous_3_athlete_proportion_avg: 0.0817
+previous_3_female_proportion_avg: 0.0000
+previous_3_medal_ef_avg: 0.0226
+previous_3_participated_events_count_avg: 0.0818
+previous_3_participated_single_events_count_avg: 0.1173
+is_host: 0.0000
 
 Surfing:
 Total Medal Model:
-R2 Score: 0.7200
-RMSE: 0.4583
+R2 Score: 0.7154
+RMSE: 0.4620
 Feature Importance:
-previous_3_medal_avg: 0.1242
-previous_3_medal_rate_avg: 0.0886
-previous_3_athlete_proportion_avg: 0.0921
-previous_3_female_proportion_avg: 0.0228
-previous_3_male_proportion_avg: 0.0502
-previous_3_participated_events_count_avg: 0.0347
-previous_3_participated_team_events_count_avg: 0.0265
+previous_3_gold_avg: 0.0477
+previous_3_medal_avg: 0.0758
+previous_3_gold_rate_avg: 0.0611
+previous_3_medal_rate_avg: 0.0702
+previous_3_athlete_proportion_avg: 0.0569
+previous_3_female_proportion_avg: 0.0056
+previous_3_male_proportion_avg: 0.0447
+previous_3_participated_events_count_avg: 0.0218
+previous_3_participated_team_events_count_avg: 0.0550
 is_host: 0.5611
 
 Gold Medal Model:
-R2 Score: 0.2804
-RMSE: 0.3673
+R2 Score: -0.6114
+RMSE: 0.4198
 Feature Importance:
-previous_3_athlete_proportion_avg: 0.2216
-previous_3_female_proportion_avg: 0.0000
-previous_3_male_proportion_avg: 0.0000
-is_host: 0.7784
+previous_3_gold_avg: 0.3337
+previous_3_gold_rate_avg: 0.2490
+previous_3_athlete_proportion_avg: 0.3028
+previous_3_female_proportion_avg: 0.0087
+previous_3_male_proportion_avg: 0.0335
+is_host: 0.0724
 
 Synchronized Swimming:
 Total Medal Model:
-R2 Score: 0.1117
-RMSE: 0.4209
+R2 Score: 0.0816
+RMSE: 0.4280
 Feature Importance:
-previous_3_gold_avg: 0.0221
-previous_3_medal_avg: 0.1088
-previous_3_gold_rate_avg: 0.0213
-previous_3_medal_rate_avg: 0.1184
-previous_3_athlete_proportion_avg: 0.1142
-previous_3_female_proportion_avg: 0.0961
-previous_3_medal_ef_avg: 0.4876
-previous_3_participated_events_count_avg: 0.0106
-previous_3_participated_team_events_count_avg: 0.0210
+previous_3_gold_avg: 0.0181
+previous_3_medal_avg: 0.1107
+previous_3_gold_rate_avg: 0.0174
+previous_3_medal_rate_avg: 0.1227
+previous_3_athlete_proportion_avg: 0.1122
+previous_3_female_proportion_avg: 0.1046
+previous_3_medal_ef_avg: 0.4897
+previous_3_participated_events_count_avg: 0.0096
+previous_3_participated_team_events_count_avg: 0.0150
 
 Gold Medal Model:
-R2 Score: 0.0000
-RMSE: 0.1577
+R2 Score: 0.4804
+RMSE: 0.2308
 Feature Importance:
-previous_3_gold_avg: 0.3292
-previous_3_medal_avg: 0.0624
-previous_3_gold_rate_avg: 0.1002
-previous_3_medal_rate_avg: 0.0351
-previous_3_athlete_proportion_avg: 0.1687
-previous_3_female_proportion_avg: 0.2026
-previous_3_medal_ef_avg: 0.1018
+previous_3_gold_avg: 0.2780
+previous_3_medal_avg: 0.1829
+previous_3_gold_rate_avg: 0.1232
+previous_3_medal_rate_avg: 0.0288
+previous_3_athlete_proportion_avg: 0.1463
+previous_3_female_proportion_avg: 0.1384
+previous_3_medal_ef_avg: 0.1025
 
 Triathlon:
 Total Medal Model:
-R2 Score: 0.1237
-RMSE: 0.4511
+R2 Score: 0.0083
+RMSE: 0.4799
 Feature Importance:
-previous_3_gold_avg: 0.0188
-previous_3_medal_avg: 0.1578
-previous_3_gold_rate_avg: 0.0139
-previous_3_medal_rate_avg: 0.1309
-previous_3_athlete_proportion_avg: 0.2853
-previous_3_female_proportion_avg: 0.1955
-previous_3_male_proportion_avg: 0.1210
-previous_3_medal_ef_avg: 0.0769
+previous_3_gold_avg: 0.0768
+previous_3_medal_avg: 0.0870
+previous_3_gold_rate_avg: 0.1130
+previous_3_medal_rate_avg: 0.0820
+previous_3_athlete_proportion_avg: 0.2759
+previous_3_female_proportion_avg: 0.1708
+previous_3_male_proportion_avg: 0.1174
+previous_3_medal_ef_avg: 0.0771
 
 Gold Medal Model:
-R2 Score: 0.0639
-RMSE: 0.2256
+R2 Score: -0.1358
+RMSE: 0.3142
 Feature Importance:
-previous_3_gold_avg: 0.0205
-previous_3_medal_avg: 0.1193
-previous_3_gold_rate_avg: 0.0188
-previous_3_medal_rate_avg: 0.0995
-previous_3_athlete_proportion_avg: 0.2583
-previous_3_female_proportion_avg: 0.1968
-previous_3_male_proportion_avg: 0.2048
-previous_3_medal_ef_avg: 0.0821
+previous_3_medal_avg: 0.2445
+previous_3_medal_rate_avg: 0.2658
+previous_3_male_proportion_avg: 0.4898
 
-3x3 Basketball:
+Artistic Swimming:
 Total Medal Model:
-R2 Score: -2.2714
-RMSE: 0.7235
+R2 Score: -0.0022
+RMSE: 0.4335
 Feature Importance:
-previous_3_gold_avg: 0.0019
-previous_3_gold_rate_avg: 0.0042
-previous_3_sport_distribution_ratio_avg: 0.1702
-previous_3_female_proportion_avg: 0.1067
-previous_3_male_proportion_avg: 0.1689
-previous_3_female_ratio_avg: 0.5481
+previous_3_medal_avg: 0.3846
+previous_3_medal_rate_avg: 0.3333
+previous_3_medal_ef_avg: 0.2821
+
+Gold Medal Model:
+R2 Score: 1.0000
+RMSE: 0.0000
+Feature Importance:
+previous_3_medal_avg: 0.4000
+previous_3_medal_rate_avg: 0.3273
+previous_3_athlete_proportion_avg: 0.0000
+previous_3_female_proportion_avg: 0.0000
+previous_3_medal_ef_avg: 0.2727
+previous_3_participated_events_count_avg: 0.0000
+previous_3_participated_team_events_count_avg: 0.0000
+
+Baseball:
+Total Medal Model:
+R2 Score: -0.2881
+RMSE: 0.3754
+Feature Importance:
+previous_3_gold_avg: 0.0970
+previous_3_medal_avg: 0.1347
+previous_3_gold_rate_avg: 0.1146
+previous_3_medal_rate_avg: 0.1488
+previous_3_athlete_proportion_avg: 0.0929
+previous_3_male_proportion_avg: 0.0709
+previous_3_medal_ef_avg: 0.2386
+previous_3_participated_events_count_avg: 0.0150
+previous_3_participated_team_events_count_avg: 0.0174
+is_host: 0.0701
 
 Gold Medal Model:
 R2 Score: 0.0000
-RMSE: 0.1833
+RMSE: 0.0479
 Feature Importance:
-previous_3_male_proportion_avg: 0.4825
-previous_3_female_ratio_avg: 0.5175
+previous_3_gold_avg: 0.1630
+previous_3_medal_avg: 0.1637
+previous_3_gold_rate_avg: 0.1080
+previous_3_medal_rate_avg: 0.1536
+previous_3_medal_ef_avg: 0.4118
 
 Cycling Track:
 Total Medal Model:
-R2 Score: -0.0078
-RMSE: 1.7462
+R2 Score: -0.0136
+RMSE: 1.5902
 Feature Importance:
-previous_3_gold_avg: 0.0118
-previous_3_medal_avg: 0.1221
-previous_3_gold_rate_avg: 0.0232
-previous_3_medal_rate_avg: 0.1084
-previous_3_athlete_proportion_avg: 0.2039
-previous_3_female_proportion_avg: 0.0392
-previous_3_male_proportion_avg: 0.1673
-previous_3_medal_ef_avg: 0.0532
-previous_3_participated_events_count_avg: 0.1586
-previous_3_participated_single_events_count_avg: 0.0226
-previous_3_participated_team_events_count_avg: 0.0897
+previous_3_gold_avg: 0.0536
+previous_3_medal_avg: 0.0439
+previous_3_gold_rate_avg: 0.0653
+previous_3_medal_rate_avg: 0.0782
+previous_3_athlete_proportion_avg: 0.1621
+previous_3_female_proportion_avg: 0.0318
+previous_3_male_proportion_avg: 0.1248
+previous_3_medal_ef_avg: 0.0315
+previous_3_participated_events_count_avg: 0.1431
+previous_3_participated_single_events_count_avg: 0.0828
+previous_3_participated_team_events_count_avg: 0.1830
 
 Gold Medal Model:
-R2 Score: -0.1930
-RMSE: 0.6846
+R2 Score: -0.0865
+RMSE: 0.8554
 Feature Importance:
-previous_3_gold_avg: 0.0063
-previous_3_medal_avg: 0.1516
-previous_3_gold_rate_avg: 0.0179
-previous_3_medal_rate_avg: 0.1604
-previous_3_athlete_proportion_avg: 0.1838
-previous_3_female_proportion_avg: 0.0215
-previous_3_male_proportion_avg: 0.1648
-previous_3_medal_ef_avg: 0.0603
-previous_3_participated_events_count_avg: 0.1308
-previous_3_participated_single_events_count_avg: 0.0112
-previous_3_participated_team_events_count_avg: 0.0915
+previous_3_gold_avg: 0.0182
+previous_3_medal_avg: 0.0432
+previous_3_gold_rate_avg: 0.0311
+previous_3_medal_rate_avg: 0.0823
+previous_3_athlete_proportion_avg: 0.1334
+previous_3_female_proportion_avg: 0.0785
+previous_3_male_proportion_avg: 0.0807
+previous_3_medal_ef_avg: 0.1773
+previous_3_participated_events_count_avg: 0.0515
+previous_3_participated_single_events_count_avg: 0.0844
+previous_3_participated_team_events_count_avg: 0.2195
 
 Rhythmic Gymnastics:
 Total Medal Model:
-R2 Score: 0.2458
-RMSE: 0.4216
+R2 Score: 0.2574
+RMSE: 0.4183
 Feature Importance:
-previous_3_gold_avg: 0.0170
-previous_3_medal_avg: 0.2361
-previous_3_gold_rate_avg: 0.0191
-previous_3_medal_rate_avg: 0.3249
-previous_3_athlete_proportion_avg: 0.1487
-previous_3_female_proportion_avg: 0.1634
-previous_3_medal_ef_avg: 0.0493
-previous_3_participated_events_count_avg: 0.0345
-previous_3_participated_team_events_count_avg: 0.0070
+previous_3_gold_avg: 0.0229
+previous_3_medal_avg: 0.2460
+previous_3_gold_rate_avg: 0.0873
+previous_3_medal_rate_avg: 0.2375
+previous_3_athlete_proportion_avg: 0.1592
+previous_3_female_proportion_avg: 0.1610
+previous_3_medal_ef_avg: 0.0458
+previous_3_participated_events_count_avg: 0.0330
+previous_3_participated_team_events_count_avg: 0.0073
 
 Gold Medal Model:
-R2 Score: 0.2912
-RMSE: 0.2327
+R2 Score: 0.5382
+RMSE: 0.1941
 Feature Importance:
-previous_3_gold_avg: 0.2381
-previous_3_medal_avg: 0.1445
-previous_3_gold_rate_avg: 0.0754
-previous_3_medal_rate_avg: 0.1427
-previous_3_medal_ef_avg: 0.2600
-previous_3_participated_team_events_count_avg: 0.1393
+previous_3_gold_avg: 0.0374
+previous_3_medal_avg: 0.1651
+previous_3_gold_rate_avg: 0.1642
+previous_3_medal_rate_avg: 0.5430
+previous_3_medal_ef_avg: 0.0458
+previous_3_participated_team_events_count_avg: 0.0444
 
 Softball:
 Total Medal Model:
-R2 Score: -0.5122
-RMSE: 0.6086
+R2 Score: -0.5853
+RMSE: 0.6231
 Feature Importance:
-previous_3_gold_avg: 0.0386
-previous_3_medal_avg: 0.2262
-previous_3_gold_rate_avg: 0.0285
-previous_3_medal_rate_avg: 0.3248
-previous_3_athlete_proportion_avg: 0.0073
-previous_3_female_proportion_avg: 0.0148
-previous_3_female_ratio_avg: 0.0062
-previous_3_medal_ef_avg: 0.3267
-previous_3_participated_events_count_avg: 0.0137
-previous_3_participated_team_events_count_avg: 0.0132
+previous_3_gold_avg: 0.0000
+previous_3_medal_avg: 0.2417
+previous_3_gold_rate_avg: 0.0000
+previous_3_medal_rate_avg: 0.3349
+previous_3_athlete_proportion_avg: 0.0101
+previous_3_female_proportion_avg: 0.0164
+previous_3_female_ratio_avg: 0.0019
+previous_3_medal_ef_avg: 0.3683
+previous_3_participated_events_count_avg: 0.0132
+previous_3_participated_team_events_count_avg: 0.0137
 
 Gold Medal Model:
-R2 Score: 0.0000
-RMSE: 0.1244
+R2 Score: 0.3284
+RMSE: 0.2868
 Feature Importance:
-previous_3_gold_avg: 0.2203
-previous_3_medal_avg: 0.1759
-previous_3_gold_rate_avg: 0.2121
-previous_3_medal_rate_avg: 0.1140
-previous_3_medal_ef_avg: 0.1330
-is_host: 0.1447
+previous_3_gold_avg: 0.2222
+previous_3_medal_avg: 0.1532
+previous_3_gold_rate_avg: 0.2131
+previous_3_medal_rate_avg: 0.2228
+previous_3_medal_ef_avg: 0.1886
 
 Sport Climbing:
 Total Medal Model:
-R2 Score: 0.2399
-RMSE: 0.4221
+R2 Score: 0.2970
+RMSE: 0.4059
 Feature Importance:
-previous_3_gold_avg: 0.0361
-previous_3_medal_avg: 0.0606
-previous_3_gold_rate_avg: 0.0468
-previous_3_medal_rate_avg: 0.0755
-previous_3_sport_distribution_ratio_avg: 0.2994
-previous_3_athlete_proportion_avg: 0.0645
-previous_3_female_proportion_avg: 0.0760
-previous_3_female_ratio_avg: 0.2107
-previous_3_medal_ef_avg: 0.0412
-previous_3_participated_events_count_avg: 0.0418
-previous_3_participated_single_events_count_avg: 0.0474
+previous_3_medal_avg: 0.0721
+previous_3_medal_rate_avg: 0.0692
+previous_3_sport_distribution_ratio_avg: 0.3740
+previous_3_athlete_proportion_avg: 0.0636
+previous_3_female_proportion_avg: 0.0856
+previous_3_female_ratio_avg: 0.2036
+previous_3_medal_ef_avg: 0.0416
+previous_3_participated_events_count_avg: 0.0331
+previous_3_participated_single_events_count_avg: 0.0572
 
 Gold Medal Model:
-R2 Score: 0.0000
-RMSE: 0.5353
+R2 Score: 0.2503
+RMSE: 0.2864
 Feature Importance:
-previous_3_gold_avg: 0.1272
-previous_3_medal_avg: 0.0798
-previous_3_gold_rate_avg: 0.0789
-previous_3_medal_rate_avg: 0.0489
-previous_3_sport_distribution_ratio_avg: 0.3049
-previous_3_female_proportion_avg: 0.1135
-previous_3_female_ratio_avg: 0.0935
-previous_3_medal_ef_avg: 0.0925
-previous_3_participated_events_count_avg: 0.0255
-previous_3_participated_single_events_count_avg: 0.0353
+previous_3_gold_avg: 0.0000
+previous_3_gold_rate_avg: 0.0000
+previous_3_sport_distribution_ratio_avg: 0.4254
+previous_3_male_proportion_avg: 0.0839
+previous_3_female_ratio_avg: 0.4907
 
 Water Polo:
 Total Medal Model:
-R2 Score: -0.2828
-RMSE: 0.5307
+R2 Score: 0.0121
+RMSE: 0.4658
 Feature Importance:
-previous_3_gold_avg: 0.0407
-previous_3_medal_avg: 0.1173
-previous_3_gold_rate_avg: 0.0851
-previous_3_medal_rate_avg: 0.0506
-previous_3_athlete_proportion_avg: 0.2651
-previous_3_male_proportion_avg: 0.2215
-previous_3_medal_ef_avg: 0.1920
-previous_3_participated_events_count_avg: 0.0137
-previous_3_participated_team_events_count_avg: 0.0139
+previous_3_gold_avg: 0.0564
+previous_3_medal_avg: 0.1001
+previous_3_gold_rate_avg: 0.0629
+previous_3_medal_rate_avg: 0.0522
+previous_3_athlete_proportion_avg: 0.2576
+previous_3_male_proportion_avg: 0.2348
+previous_3_medal_ef_avg: 0.2014
+previous_3_participated_events_count_avg: 0.0202
+previous_3_participated_team_events_count_avg: 0.0142
 
 Gold Medal Model:
-R2 Score: -0.5385
-RMSE: 0.3160
+R2 Score: -0.0648
+RMSE: 0.4016
 Feature Importance:
-previous_3_medal_avg: 0.4094
-previous_3_female_proportion_avg: 0.5906
+previous_3_gold_avg: 0.1686
+previous_3_medal_avg: 0.1130
+previous_3_medal_rate_avg: 0.1064
+previous_3_medal_ef_avg: 0.6120
