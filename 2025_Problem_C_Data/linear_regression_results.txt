@@ -1,0 +1,12 @@
+Linear Regression Model Results
+
+
+Total_Medal Prediction:
+R2: 0.3645
+RMSE: 3.6544
+MAE: 1.5747
+
+Gold Prediction:
+R2: 0.1634
+RMSE: 1.7544
+MAE: 0.6693
